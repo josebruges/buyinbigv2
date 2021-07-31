@@ -1,0 +1,342 @@
+[19-Mar-2020 19:08:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'criptocomers'@'localhost' to database 'criptocomerce' in /home/frvlspefvges/public_html/api/models/conexion.php on line 10
+[19-Mar-2020 19:08:46 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/frvlspefvges/public_html/api/models/conexion.php on line 39
+[19-Mar-2020 19:09:03 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'criptocomers'@'localhost' to database 'criptocomerce' in /home/frvlspefvges/public_html/api/models/conexion.php on line 10
+[19-Mar-2020 19:09:03 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/frvlspefvges/public_html/api/models/conexion.php on line 35
+[19-Mar-2020 19:09:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:09:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'criptocomers'@'localhost' to database 'criptocomerce' in /home/frvlspefvges/public_html/api/models/conexion.php on line 10
+[19-Mar-2020 19:09:30 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/frvlspefvges/public_html/api/models/conexion.php on line 35
+[19-Mar-2020 19:09:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:12:19 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'criptocomers'@'localhost' to database 'criptocomerce' in /home/frvlspefvges/public_html/api/models/conexion.php on line 10
+[19-Mar-2020 19:12:19 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/frvlspefvges/public_html/api/models/conexion.php on line 35
+[19-Mar-2020 19:12:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:13:55 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'criptocomers'@'localhost' to database 'criptocomerce' in /home/frvlspefvges/public_html/api/models/conexion.php on line 10
+[19-Mar-2020 19:13:55 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/frvlspefvges/public_html/api/models/conexion.php on line 35
+[19-Mar-2020 19:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:14:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:17:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:21:22 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 19:21:22 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 54
+[19-Mar-2020 19:21:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:21:22 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 57
+[19-Mar-2020 19:21:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:21:23 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:21:23 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:21:45 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 19:21:45 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 54
+[19-Mar-2020 19:21:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:21:45 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 57
+[19-Mar-2020 19:21:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:21:45 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:21:45 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:32:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:33:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:34:25 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 19:34:25 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 54
+[19-Mar-2020 19:34:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:34:25 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 57
+[19-Mar-2020 19:34:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:34:25 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:34:25 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:35:02 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 19:35:02 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 54
+[19-Mar-2020 19:35:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:35:02 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 57
+[19-Mar-2020 19:35:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:35:02 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:35:02 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 19:35:50 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 54
+[19-Mar-2020 19:35:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:35:50 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 57
+[19-Mar-2020 19:35:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:35:50 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:35:50 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:37:28 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 19:37:28 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 54
+[19-Mar-2020 19:37:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:37:28 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 57
+[19-Mar-2020 19:37:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:37:28 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:37:28 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 19:39:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:39:57 UTC] PHP Notice:  Undefined variable: arr in /home/frvlspefvges/public_html/api/models/conexion.php on line 39
+[19-Mar-2020 19:39:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[19-Mar-2020 19:40:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:40:04 UTC] PHP Notice:  Undefined variable: arr in /home/frvlspefvges/public_html/api/models/conexion.php on line 39
+[19-Mar-2020 19:40:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[19-Mar-2020 19:40:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:41:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:42:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:43:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all_alt() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 19:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all_alt() in /home/frvlspefvges/public_html/api/models/conexion.php:46
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 46
+[19-Mar-2020 19:44:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/frvlspefvges/public_html/api/models/conexion.php on line 49
+[19-Mar-2020 19:44:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/frvlspefvges/public_html/api/models/conexion.php on line 49
+[19-Mar-2020 19:45:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/frvlspefvges/public_html/api/models/conexion.php on line 49
+[19-Mar-2020 19:46:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 39
+[19-Mar-2020 19:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function consultarArreglo() in /home/frvlspefvges/public_html/api/models/conexion.php:39
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 39
+[19-Mar-2020 19:47:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 31
+[19-Mar-2020 19:47:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 31
+[19-Mar-2020 19:48:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/frvlspefvges/public_html/api/models/conexion.php on line 39
+[19-Mar-2020 19:48:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/frvlspefvges/public_html/api/models/conexion.php on line 39
+[19-Mar-2020 19:50:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 19:50:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/frvlspefvges/public_html/api/models/conexion.php on line 40
+[19-Mar-2020 19:51:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 19:51:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/frvlspefvges/public_html/api/models/conexion.php on line 40
+[19-Mar-2020 19:51:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 19:51:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/frvlspefvges/public_html/api/models/conexion.php on line 40
+[19-Mar-2020 19:53:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 40
+[19-Mar-2020 19:55:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/frvlspefvges/public_html/api/models/conexion.php:41
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 41
+[19-Mar-2020 19:55:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 40
+[19-Mar-2020 19:55:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/frvlspefvges/public_html/api/models/conexion.php:41
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 41
+[19-Mar-2020 19:57:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 31
+[19-Mar-2020 19:58:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 31
+[19-Mar-2020 20:00:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 20:00:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 20:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:36
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 36
+[19-Mar-2020 20:02:08 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 20:02:08 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 54
+[19-Mar-2020 20:02:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:02:08 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 57
+[19-Mar-2020 20:02:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:02:08 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 20:02:08 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 20:02:22 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 20:02:22 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 54
+[19-Mar-2020 20:02:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:02:22 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 57
+[19-Mar-2020 20:02:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:02:22 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 20:02:22 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 20:03:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 41
+[19-Mar-2020 20:03:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 41
+[19-Mar-2020 20:03:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 41
+[19-Mar-2020 20:04:22 UTC] PHP Warning:  mysqli_fetch_row() expects exactly 1 parameter, 2 given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:04:22 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[19-Mar-2020 20:04:29 UTC] PHP Warning:  mysqli_fetch_row() expects exactly 1 parameter, 2 given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:04:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[19-Mar-2020 20:05:45 UTC] PHP Warning:  mysqli_fetch_row() expects exactly 1 parameter, 2 given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:05:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[19-Mar-2020 20:06:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 40
+[19-Mar-2020 20:06:13 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 20:06:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /home/frvlspefvges/public_html/api/models/conexion.php on line 40
+[19-Mar-2020 20:06:32 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 20:06:32 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 20:06:32 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 20:06:32 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 54
+[19-Mar-2020 20:06:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:06:32 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 57
+[19-Mar-2020 20:06:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:06:32 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 20:06:32 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 20:08:09 UTC] PHP Warning:  Use of undefined constant MYSQL_NUM - assumed 'MYSQL_NUM' (this will throw an Error in a future version of PHP) in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:08:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 2 to be int, string given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:08:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[19-Mar-2020 20:08:24 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 20:08:37 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 20:08:58 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 20:08:58 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 20:08:58 UTC] PHP Warning:  Illegal string offset 'token' in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 20:08:58 UTC] PHP Warning:  Illegal string offset 'token' in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 20:08:58 UTC] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/frvlspefvges/public_html/api/models/users.php:52
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#1 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/users.php on line 52
+[19-Mar-2020 20:09:07 UTC] PHP Warning:  Illegal string offset 'token' in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 20:09:07 UTC] PHP Warning:  Illegal string offset 'token' in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 20:09:07 UTC] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/frvlspefvges/public_html/api/models/users.php:52
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#1 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/users.php on line 52
+[19-Mar-2020 20:09:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/frvlspefvges/public_html/api/models/conexion.php on line 39
+[19-Mar-2020 20:09:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/frvlspefvges/public_html/api/models/conexion.php on line 39
+[19-Mar-2020 20:09:41 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 51
+[19-Mar-2020 20:09:41 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 54
+[19-Mar-2020 20:09:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:09:41 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 57
+[19-Mar-2020 20:09:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/frvlspefvges/public_html/api/models/conexion.php on line 37
+[19-Mar-2020 20:09:41 UTC] PHP Notice:  Undefined offset: 0 in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 20:09:41 UTC] PHP Notice:  Undefined index: id in /home/frvlspefvges/public_html/api/models/users.php on line 60
+[19-Mar-2020 20:14:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/frvlspefvges/public_html/api/models/conexion.php:38
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(46): Conexion->consultaTodo('select * from u...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(10): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 38
+[19-Mar-2020 20:16:49 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 42
+[19-Mar-2020 20:16:49 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[19-Mar-2020 20:17:00 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[19-Mar-2020 20:17:15 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[19-Mar-2020 20:17:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[19-Mar-2020 20:17:23 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[19-Mar-2020 21:06:04 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[19-Mar-2020 21:06:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[19-Mar-2020 21:07:07 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[19-Mar-2020 22:15:13 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[19-Mar-2020 22:15:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[19-Mar-2020 22:15:17 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[19-Mar-2020 22:34:39 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 13:25:39 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 13:25:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[20-Mar-2020 13:25:42 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 13:50:50 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 13:50:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[20-Mar-2020 13:51:00 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 13:51:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[20-Mar-2020 14:21:46 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 14:21:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[20-Mar-2020 18:25:51 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 18:25:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[20-Mar-2020 18:28:10 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 18:28:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 20
+[20-Mar-2020 18:30:10 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 18:30:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[20-Mar-2020 18:30:18 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 18:30:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 47
+[20-Mar-2020 18:31:09 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 18:31:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 20
+[20-Mar-2020 18:32:56 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 18:32:56 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 18:33:41 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 18:33:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frvlspefvges/public_html/api/models/users.php on line 20
+[20-Mar-2020 18:34:27 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 18:34:27 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 19:16:17 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 19:16:17 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[20-Mar-2020 19:20:57 UTC] PHP Notice:  Undefined variable: results_array in /home/frvlspefvges/public_html/api/models/conexion.php on line 43
+[24-Mar-2020 12:59:23 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/controllers/users/login.php on line 7
+[24-Mar-2020 12:59:26 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/controllers/users/login.php on line 7
+[24-Mar-2020 12:59:29 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/controllers/users/login.php on line 7
+[24-Mar-2020 12:59:34 UTC] PHP Notice:  Array to string conversion in /home/frvlspefvges/public_html/api/controllers/users/login.php on line 7
+[25-Mar-2020 15:32:36 UTC] PHP Parse error:  syntax error, unexpected '$url' (T_VARIABLE), expecting ';' or '{' in /home/frvlspefvges/public_html/api/models/users.php on line 94
+[25-Mar-2020 15:33:36 UTC] PHP Parse error:  syntax error, unexpected '$url' (T_VARIABLE), expecting ';' or '{' in /home/frvlspefvges/public_html/api/models/users.php on line 94
+[25-Mar-2020 15:35:12 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/frvlspefvges/public_html/api/models/users.php on line 452
+[25-Mar-2020 15:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function recuperarContrasenia() in /home/frvlspefvges/public_html/api/models/users.php:84
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/controllers/users/recuperarpassword.php(11): Users->SolicitarPassword(Array)
+#1 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/users.php on line 84
+[25-Mar-2020 17:03:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/frvlspefvges/public_html/api/models/conexion.php:40
+Stack trace:
+#0 /home/frvlspefvges/public_html/api/models/users.php(67): Conexion->consultaTodo('update users se...')
+#1 /home/frvlspefvges/public_html/api/controllers/users/login.php(11): Users->Login(Array)
+#2 {main}
+  thrown in /home/frvlspefvges/public_html/api/models/conexion.php on line 40
+[26-Mar-2020 14:40:09 UTC] PHP Parse error:  syntax error, unexpected 'HTML' (T_STRING) in /home/frvlspefvges/public_html/api/models/users.php on line 533
+[26-Mar-2020 14:40:15 UTC] PHP Parse error:  syntax error, unexpected 'HTML' (T_STRING) in /home/frvlspefvges/public_html/api/models/users.php on line 533
+[26-Mar-2020 20:20:20 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/frvlspefvges/public_html/api/models/users.php on line 23
+[26-Mar-2020 20:20:20 UTC] PHP Warning:  Use of undefined constant count - assumed 'count' (this will throw an Error in a future version of PHP) in /home/frvlspefvges/public_html/api/models/users.php on line 23
+[26-Mar-2020 20:21:37 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/frvlspefvges/public_html/api/models/users.php on line 24
+[26-Mar-2020 20:21:37 UTC] PHP Warning:  Use of undefined constant count - assumed 'count' (this will throw an Error in a future version of PHP) in /home/frvlspefvges/public_html/api/models/users.php on line 24
+[26-Mar-2020 20:22:02 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/frvlspefvges/public_html/api/models/users.php on line 27
+[26-Mar-2020 20:22:02 UTC] PHP Warning:  Use of undefined constant count - assumed 'count' (this will throw an Error in a future version of PHP) in /home/frvlspefvges/public_html/api/models/users.php on line 27

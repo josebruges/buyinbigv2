@@ -1,0 +1,310 @@
+
+2021-07-27 19:41:35--->CATEGORIA ====> [{"id":"2","descripcion":"Silver","rango_inferior_usd":"301.00","rango_superior_usd":"500.00","num_apostadores":"25","costo_ticket_usd":"7.00"}]
+
+2021-07-27 19:42:01--->CATEGORIA ====> [{"id":"2","descripcion":"Silver","rango_inferior_usd":"301.00","rango_superior_usd":"500.00","num_apostadores":"25","costo_ticket_usd":"7.00"}]
+
+2021-07-28 10:49:11--->CATEGORIA ====> [{"id":"6","descripcion":"Standard","rango_inferior_usd":"30.00","rango_superior_usd":"249.00","num_apostadores":"15","costo_ticket_usd":"0.00"}]
+
+2021-07-28 10:49:35--->CATEGORIA ====> [{"id":"6","descripcion":"Standard","rango_inferior_usd":"30.00","rango_superior_usd":"249.00","num_apostadores":"15","costo_ticket_usd":"0.00"}]
+
+2021-07-28 11:22:12--->CATEGORIA ====> [{"id":"2","descripcion":"Silver","rango_inferior_usd":"301.00","rango_superior_usd":"500.00","num_apostadores":"25","costo_ticket_usd":"7.00"}]
+
+2021-07-28 11:22:33--->CATEGORIA ====> [{"id":"2","descripcion":"Silver","rango_inferior_usd":"301.00","rango_superior_usd":"500.00","num_apostadores":"25","costo_ticket_usd":"7.00"}]
+
+2021-07-28 11:24:09--->insert
+
+2021-07-28 11:24:09--->PRODUCTO REVISION ID ======> 8622
+
+2021-07-28 11:25:32--->1). [Producto_subasta/inscribirseSubasta/inscribirseSubasta]: {"uid":1378,"empresa":0,"id":463,"cantidad":20,"ticket":2,"cantidad_ticket":20,"fecha":1627485932896}
+
+2021-07-28 11:25:56--->1). [Producto_subasta/inscribirseSubasta/inscribirseSubasta]: {"uid":1291,"empresa":0,"id":463,"cantidad":5,"ticket":2,"cantidad_ticket":5,"fecha":1627485956014}
+
+2021-07-28 11:38:56--->SUBASTA =======> {"id":463,"id_producto":8622,"moneda":"Nasbigold","precio":0.013211,"precio_usd":396.35,"cantidad":1,"tipo":2,"estado":2,"apostadores":23,"inscritos":25,"inscritos_activacion_subasta":"25","fecha_fin":1627485753597,"fecha_creacion":1627485753597,"fecha_actualizacion":1627485956014,"fecha_inicio":"1627658553597","uid_producto":1614,"cantidad_producto":"1","producto":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","marca":"Adids","modelo":"jd","titulo":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","descripcion":"Ignora el pron\u00f3stico del tiempo. Esta chaqueta adidas para correr te mantiene c\u00f3modo en todos los tipos de clima. Su dise\u00f1o con capucha es impermeable para que te puedas enfrentar al viento y la lluvia con tranquilidad. Los detalles reflectivos en los costados te hacen m\u00e1s visible en condiciones de poca luz.\n\n","empresa_producto":0,"tipo_envio":"2","exposicion":3,"categoria":122,"subcategoria":1221,"porcentaje_tax":"0.00","oferta":"0","precio_local":"1500000.00","porcentaje_oferta":"0.00","moneda_local":"COP","id_direccion":"599","uid":1291,"empresa":0,"estado_inscrito":1,"id_inscrito":218,"costo_ticket_usd":"7.00","porcentaje_gratuita":"0.00","porcentaje_clasica":"0.11","porcentaje_premium":"0.13","precio_mask":"0.01","precio_usd_mask":"396.35","comisiones_categoria":0.13,"detalle_producto_colores_tallas":[]}
+
+2021-07-28 11:39:01--->SUBASTA =======> {"id":463,"id_producto":8622,"moneda":"Nasbigold","precio":0.013211,"precio_usd":396.35,"cantidad":1,"tipo":2,"estado":2,"apostadores":23,"inscritos":25,"inscritos_activacion_subasta":"25","fecha_fin":1627485753597,"fecha_creacion":1627485753597,"fecha_actualizacion":1627485956014,"fecha_inicio":"1627658553597","uid_producto":1614,"cantidad_producto":"1","producto":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","marca":"Adids","modelo":"jd","titulo":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","descripcion":"Ignora el pron\u00f3stico del tiempo. Esta chaqueta adidas para correr te mantiene c\u00f3modo en todos los tipos de clima. Su dise\u00f1o con capucha es impermeable para que te puedas enfrentar al viento y la lluvia con tranquilidad. Los detalles reflectivos en los costados te hacen m\u00e1s visible en condiciones de poca luz.\n\n","empresa_producto":0,"tipo_envio":"2","exposicion":3,"categoria":122,"subcategoria":1221,"porcentaje_tax":"0.00","oferta":"0","precio_local":"1500000.00","porcentaje_oferta":"0.00","moneda_local":"COP","id_direccion":"599","uid":1291,"empresa":0,"estado_inscrito":2,"id_inscrito":218,"costo_ticket_usd":"7.00","porcentaje_gratuita":"0.00","porcentaje_clasica":"0.11","porcentaje_premium":"0.13","precio_mask":"0.01","precio_usd_mask":"396.35","comisiones_categoria":0.13,"detalle_producto_colores_tallas":[]}
+
+2021-07-28 11:39:01--->DINERO BLOQUEADO =====>> {"id":1478,"uid":1291,"empresa":0,"id_transaccion":463,"id_producto":"0","tipo_transaccion":2,"moneda":"Nasbigold","address":"d04a4ca27c87199c158172765875c4e7","precio":22226746.12,"precio_momento_usd":30000,"precio_en_cripto":"0.0000000000","tipo":1,"accion":1,"descripcion":"Subasta CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","fecha_creacion":1627486736869,"fecha_actualizacion":1627486736869,"precio_mask":"22,226,746.12","precio_momento_usd_mask":"30,000.00","precio_usd":"666802383600.00","precio_usd_mask":"666,802,383,600.00"}
+
+2021-07-28 11:39:01--->-----+> 0. SUGERIDO | id: 463
+
+2021-07-28 11:39:01--->-----+> 1. SUGERIDO | precio_usd: 396.35
+
+2021-07-28 11:39:01--->-----+> 2. SUGERIDO | inscritos: 25
+
+2021-07-28 11:39:01--->-----+> 3. SUGERIDO | recaudar_entradas: 197.66025974026
+
+2021-07-28 11:39:01--->-----+> 4. SUGERIDO | apostadores: 28
+
+2021-07-28 11:39:01--->-----+> 5. SUGERIDO | porcentaje: 0.1
+
+2021-07-28 11:39:01--->-----+> 6. SUGERIDO | porcentaje: 0.1
+
+2021-07-28 11:39:01--->-----+> 7. SUGERIDO | resultSugeridoNasbi: {"monto":1350000,"monto_mask":"1,350,000.00","monto_usd":356.71,"monto_usd_mask":"356.71","monto_local":1350000,"monto_local_mask":"1,350,000.00","monto_local_symbol":"COP","monto_cripto":0.01189,"monto_cripto_mask":"0.01","precio_moneda_actual_usd":"30000.00","precio_moneda_actual_usd_mask":"30,000.00"}
+
+2021-07-28 11:39:01--->----+> #2) RESPONDIENDO AL FRON-END: {"status":"porPostor","message":"usuarios inscritos falta apostador","sugerido":1350000,"sugerido_mask":"1,350,000.00","sugerido_usd":356.71,"sugerido_usd_mask":"356.71","sugerido_local":1350000,"sugerido_local_mask":"1,350,000.00","sugerido_cripto":0.01189,"sugerido_cripto_mask":"0.01","precio_moneda":"30000.00","precio_moneda_mask":"30,000.00","dinero_puja":{"uid":1291,"empresa":0,"id_producto":"0","moneda":"Nasbigold","address":"d04a4ca27c87199c158172765875c4e7","precio":22226746.1198,"precio_momento_usd":30000,"precio_en_cripto":"0.0000000000","tipo":1,"accion":1,"descripcion":"Subasta CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","fecha_creacion":1627486736869,"fecha_actualizacion":1627486736869,"precio_mask":"22,226,746.12","precio_momento_usd_mask":"30,000.00","precio_usd":"666802383600.00","precio_usd_mask":"666,802,383,600.00"},"data":null,"estado_subasta":2,"extra_data":{"monto":1350000,"monto_mask":"1,350,000.00","monto_usd":356.71,"monto_usd_mask":"356.71","monto_local":1350000,"monto_local_mask":"1,350,000.00","monto_local_symbol":"COP","monto_cripto":0.01189,"monto_cripto_mask":"0.01","precio_moneda_actual_usd":"30000.00","precio_moneda_actual_usd_mask":"30,000.00"}}
+
+2021-07-28 11:39:29--->SUBASTA =======> {"id":463,"id_producto":8622,"moneda":"Nasbigold","precio":0.013211,"precio_usd":396.35,"cantidad":1,"tipo":2,"estado":2,"apostadores":23,"inscritos":25,"inscritos_activacion_subasta":"25","fecha_fin":1627485753597,"fecha_creacion":1627485753597,"fecha_actualizacion":1627485956014,"fecha_inicio":"1627658553597","uid_producto":1614,"cantidad_producto":"1","producto":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","marca":"Adids","modelo":"jd","titulo":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","descripcion":"Ignora el pron\u00f3stico del tiempo. Esta chaqueta adidas para correr te mantiene c\u00f3modo en todos los tipos de clima. Su dise\u00f1o con capucha es impermeable para que te puedas enfrentar al viento y la lluvia con tranquilidad. Los detalles reflectivos en los costados te hacen m\u00e1s visible en condiciones de poca luz.\n\n","empresa_producto":0,"tipo_envio":"2","exposicion":3,"categoria":122,"subcategoria":1221,"porcentaje_tax":"0.00","oferta":"0","precio_local":"1500000.00","porcentaje_oferta":"0.00","moneda_local":"COP","id_direccion":"599","uid":1291,"empresa":0,"estado_inscrito":2,"id_inscrito":218,"costo_ticket_usd":"7.00","porcentaje_gratuita":"0.00","porcentaje_clasica":"0.11","porcentaje_premium":"0.13","precio_mask":"0.01","precio_usd_mask":"396.35","comisiones_categoria":0.13,"detalle_producto_colores_tallas":[]}
+
+2021-07-28 11:39:29--->-----+> 0. SUGERIDO | id: 463
+
+2021-07-28 11:39:29--->-----+> 1. SUGERIDO | precio_usd: 396.35
+
+2021-07-28 11:39:29--->-----+> 2. SUGERIDO | inscritos: 25
+
+2021-07-28 11:39:29--->-----+> 3. SUGERIDO | recaudar_entradas: 197.66025974026
+
+2021-07-28 11:39:29--->-----+> 4. SUGERIDO | apostadores: 28
+
+2021-07-28 11:39:29--->-----+> 5. SUGERIDO | porcentaje: 0.1
+
+2021-07-28 11:39:29--->-----+> 6. SUGERIDO | porcentaje: 0.1
+
+2021-07-28 11:39:29--->-----+> 7. SUGERIDO | resultSugeridoNasbi: {"monto":1350000,"monto_mask":"1,350,000.00","monto_usd":356.71,"monto_usd_mask":"356.71","monto_local":1350000,"monto_local_mask":"1,350,000.00","monto_local_symbol":"COP","monto_cripto":0.01189,"monto_cripto_mask":"0.01","precio_moneda_actual_usd":"30000.00","precio_moneda_actual_usd_mask":"30,000.00"}
+
+2021-07-28 11:39:29--->DINERO BLOQUEADO =====>> {"id":1478,"uid":1291,"empresa":0,"id_transaccion":463,"id_producto":"0","tipo_transaccion":2,"moneda":"Nasbigold","address":"d04a4ca27c87199c158172765875c4e7","precio":22226746.12,"precio_momento_usd":30000,"precio_en_cripto":"0.0000000000","tipo":1,"accion":1,"descripcion":"Subasta CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","fecha_creacion":1627486736869,"fecha_actualizacion":1627486736869,"precio_mask":"22,226,746.12","precio_momento_usd_mask":"30,000.00","precio_usd":"666802383600.00","precio_usd_mask":"666,802,383,600.00"}
+
+2021-07-28 11:39:29--->SQL actualizar =>>UPDATE productos_subastas
+        SET
+            estado = '3',
+            fecha_actualizacion = '1627486769720'
+        WHERE id = '463'
+
+2021-07-28 11:40:15--->=========================SUBASTA FINALIZADA=========================
+
+2021-07-28 11:40:15--->SUBASTA =======> {"id":463,"id_producto":8622,"moneda":"Nasbigold","precio":0.013211,"precio_usd":396.35,"cantidad":1,"tipo":2,"estado":3,"apostadores":23,"inscritos":25,"inscritos_activacion_subasta":"25","fecha_fin":1627485753597,"fecha_creacion":1627485753597,"fecha_actualizacion":1627486769720,"fecha_inicio":"1627658553597","uid_producto":1614,"cantidad_producto":"1","producto":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","marca":"Adids","modelo":"jd","titulo":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","descripcion":"Ignora el pron\u00f3stico del tiempo. Esta chaqueta adidas para correr te mantiene c\u00f3modo en todos los tipos de clima. Su dise\u00f1o con capucha es impermeable para que te puedas enfrentar al viento y la lluvia con tranquilidad. Los detalles reflectivos en los costados te hacen m\u00e1s visible en condiciones de poca luz.\n\n","empresa_producto":0,"tipo_envio":"2","exposicion":3,"categoria":122,"subcategoria":1221,"porcentaje_tax":"0.00","oferta":"0","precio_local":"1500000.00","porcentaje_oferta":"0.00","moneda_local":"COP","id_direccion":"599","uid":1291,"empresa":0,"estado_inscrito":2,"id_inscrito":218,"costo_ticket_usd":"7.00","porcentaje_gratuita":"0.00","porcentaje_clasica":"0.11","porcentaje_premium":"0.13","precio_mask":"0.01","precio_usd_mask":"396.35","comisiones_categoria":0.13,"detalle_producto_colores_tallas":[]}
+
+2021-07-28 11:40:15--->DINERO BLOQUEADO =====>> {"id":1478,"uid":1291,"empresa":0,"id_transaccion":463,"id_producto":"0","tipo_transaccion":2,"moneda":"Nasbigold","address":"d04a4ca27c87199c158172765875c4e7","precio":22226746.12,"precio_momento_usd":30000,"precio_en_cripto":"0.0000000000","tipo":1,"accion":1,"descripcion":"Subasta CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","fecha_creacion":1627486736869,"fecha_actualizacion":1627486736869,"precio_mask":"22,226,746.12","precio_momento_usd_mask":"30,000.00","precio_usd":"666802383600.00","precio_usd_mask":"666,802,383,600.00"}
+
+2021-07-28 11:40:15--->==========SUBASTA ACTUALIZAR========= {"id":463,"id_producto":8622,"moneda":"Nasbigold","precio":0.013211,"precio_usd":396.35,"cantidad":1,"tipo":2,"estado":3,"apostadores":23,"inscritos":25,"inscritos_activacion_subasta":"25","fecha_fin":1627485753597,"fecha_creacion":1627485753597,"fecha_actualizacion":1627486769720,"fecha_inicio":"1627658553597","uid_producto":1614,"cantidad_producto":"1","producto":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","marca":"Adids","modelo":"jd","titulo":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","descripcion":"Ignora el pron\u00f3stico del tiempo. Esta chaqueta adidas para correr te mantiene c\u00f3modo en todos los tipos de clima. Su dise\u00f1o con capucha es impermeable para que te puedas enfrentar al viento y la lluvia con tranquilidad. Los detalles reflectivos en los costados te hacen m\u00e1s visible en condiciones de poca luz.\n\n","empresa_producto":0,"tipo_envio":"2","exposicion":3,"categoria":122,"subcategoria":1221,"porcentaje_tax":"0.00","oferta":"0","precio_local":"1500000.00","porcentaje_oferta":"0.00","moneda_local":"COP","id_direccion":"599","uid":1291,"empresa":0,"estado_inscrito":2,"id_inscrito":218,"costo_ticket_usd":"7.00","porcentaje_gratuita":"0.00","porcentaje_clasica":"0.11","porcentaje_premium":"0.13","precio_mask":"0.01","precio_usd_mask":"396.35","comisiones_categoria":0.13,"detalle_producto_colores_tallas":[]}
+
+2021-07-28 11:40:15--->==========FINALIZAR SUBASTA========== 
+
+2021-07-28 11:40:15--->SQL actualizar =>>UPDATE productos_subastas
+        SET
+            estado = '4',
+            fecha_actualizacion = '1627486815192'
+        WHERE id = '463'
+
+2021-07-28 11:40:15---> #SUBASTAS# quitarBloqueadosTodos (Todos los bloqueos): [{"id":1478,"uid":1291,"empresa":0,"id_transaccion":463,"id_producto":"0","tipo_transaccion":2,"moneda":"Nasbigold","address":"d04a4ca27c87199c158172765875c4e7","precio":22226746.12,"precio_momento_usd":30000,"precio_en_cripto":"0.0000000000","tipo":1,"accion":1,"descripcion":"Subasta CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","fecha_creacion":1627486736869,"fecha_actualizacion":1627486736869,"precio_mask":"22,226,746.12","precio_momento_usd_mask":"30,000.00","precio_usd":"666802383600.00","precio_usd_mask":"666,802,383,600.00"}]
+
+2021-07-28 11:40:15---> #SUBASTAS# quitarBloqueadosTodos (devolviendo el dinero): {"id":1478,"uid":1291,"empresa":0,"moneda":"Nasbigold","all":false,"precio":22226746.12,"precio_momento_usd":null,"address":"d04a4ca27c87199c158172765875c4e7","id_transaccion":463,"tipo_transaccion":2,"tipo":"bloqueado","accion":"reverse","descripcion":"Intentando quitas los bloqueos","fecha":1627486815192}
+
+2021-07-28 11:40:15---> #SUBASTAS# quitarBloqueadosTodos ([1]. devolviendo el dinero SQL): SELECT * FROM buyinbig.nasbicoin_gold WHERE uid = '1291' AND empresa = '0' AND address = 'd04a4ca27c87199c158172765875c4e7';
+
+2021-07-28 11:40:15---> #SUBASTAS# quitarBloqueadosTodos ([2]. devolviendo el dinero SQL): {"id":"9","uid":"1291","empresa":"0","address":"d04a4ca27c87199c158172765875c4e7","monto":"0.000000","moneda":"Nasbigold","estado":"1","fecha_creacion":"1607725961824","fecha_actualizacion":"1627046252566"}
+
+2021-07-28 11:40:15---> #SUBASTAS# quitarBloqueadosTodos ([3]. devolviendo el dinero SQL): UPDATE buyinbig.nasbicoin_gold SET monto = monto + '22226746.12' WHERE id = '9';
+
+2021-07-28 11:40:15---> #SUBASTAS# quitarBloqueadosTodos ([3]. devolviendo el dinero SQL): DELETE FROM buyinbig.nasbicoin_bloqueado_diferido WHERE id = '1478';
+
+2021-07-28 11:40:15---> #SUBASTAS# -----+> [ subasta ]: {"id":463,"id_producto":8622,"moneda":"Nasbigold","precio":0.013211,"precio_usd":396.35,"cantidad":1,"tipo":2,"estado":3,"apostadores":23,"inscritos":25,"inscritos_activacion_subasta":"25","fecha_fin":1627485753597,"fecha_creacion":1627485753597,"fecha_actualizacion":1627486769720,"fecha_inicio":"1627658553597","uid_producto":1614,"cantidad_producto":"1","producto":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","marca":"Adids","modelo":"jd","titulo":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","descripcion":"Ignora el pron\u00f3stico del tiempo. Esta chaqueta adidas para correr te mantiene c\u00f3modo en todos los tipos de clima. Su dise\u00f1o con capucha es impermeable para que te puedas enfrentar al viento y la lluvia con tranquilidad. Los detalles reflectivos en los costados te hacen m\u00e1s visible en condiciones de poca luz.\n\n","empresa_producto":0,"tipo_envio":"2","exposicion":3,"categoria":122,"subcategoria":1221,"porcentaje_tax":"0.00","oferta":"0","precio_local":"1500000.00","porcentaje_oferta":"0.00","moneda_local":"COP","id_direccion":"599","uid":1291,"empresa":0,"estado_inscrito":2,"id_inscrito":218,"costo_ticket_usd":"7.00","porcentaje_gratuita":"0.00","porcentaje_clasica":"0.11","porcentaje_premium":"0.13","precio_mask":"0.01","precio_usd_mask":"396.35","comisiones_categoria":0.13,"detalle_producto_colores_tallas":[],"fecha":1627486815192}
+
+2021-07-28 11:40:15---> #SUBASTAS# -----+> [ puja ]: {"id":723,"uid":1291,"id_subasta":463,"monto":1350000,"moneda_local_simbol":"COP","monto_usd":"356.710000","monto_cripto":"0.011890","fecha_creacion":1627486769720,"fecha_actualizacion":1627486769720,"fecha_final":"1627486814720","username":"felix","monto_mask":"1,350,000.00"}
+
+2021-07-28 11:40:15---> #SUBASTAS# -----+> [ dineropuja ]: {"id":1478,"uid":1291,"empresa":0,"id_transaccion":463,"id_producto":"0","tipo_transaccion":2,"moneda":"Nasbigold","address":"d04a4ca27c87199c158172765875c4e7","precio":22226746.12,"precio_momento_usd":30000,"precio_en_cripto":"0.0000000000","tipo":1,"accion":1,"descripcion":"Subasta CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","fecha_creacion":1627486736869,"fecha_actualizacion":1627486736869,"precio_mask":"22,226,746.12","precio_momento_usd_mask":"30,000.00","precio_usd":"666802383600.00","precio_usd_mask":"666,802,383,600.00"}
+
+2021-07-28 11:40:15--->ENTRO A SUBASTA A INSERTAR: ========>{"id":463,"id_producto":8622,"moneda":"Nasbigold","precio":0.013211,"precio_usd":396.35,"cantidad":1,"tipo":2,"estado":3,"apostadores":23,"inscritos":25,"inscritos_activacion_subasta":"25","fecha_fin":1627485753597,"fecha_creacion":1627485753597,"fecha_actualizacion":1627486769720,"fecha_inicio":"1627658553597","uid_producto":1614,"cantidad_producto":"1","producto":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","marca":"Adids","modelo":"jd","titulo":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","descripcion":"Ignora el pron\u00f3stico del tiempo. Esta chaqueta adidas para correr te mantiene c\u00f3modo en todos los tipos de clima. Su dise\u00f1o con capucha es impermeable para que te puedas enfrentar al viento y la lluvia con tranquilidad. Los detalles reflectivos en los costados te hacen m\u00e1s visible en condiciones de poca luz.\n\n","empresa_producto":0,"tipo_envio":"2","exposicion":3,"categoria":122,"subcategoria":1221,"porcentaje_tax":"0.00","oferta":"0","precio_local":"1500000.00","porcentaje_oferta":"0.00","moneda_local":"COP","id_direccion":"599","uid":1291,"empresa":0,"estado_inscrito":2,"id_inscrito":218,"costo_ticket_usd":"7.00","porcentaje_gratuita":"0.00","porcentaje_clasica":"0.11","porcentaje_premium":"0.13","precio_mask":"0.01","precio_usd_mask":"396.35","comisiones_categoria":0.13,"detalle_producto_colores_tallas":[],"fecha":1627486815192}
+
+2021-07-28 11:40:15---> #SUBASTAS# -----+> [ insertcarrito ]: INSERT INTO carrito(
+            uid,
+            empresa,
+            id_producto,
+            cantidad,
+            moneda,
+            estado,
+            tipo,
+            exposicion_pt,
+            categoria_pt,
+            subcategoria_pt,
+            comisiones_categoria_pt,
+            refer,
+            fecha_creacion,
+            fecha_actualizacion
+        )
+        VALUES(
+            '1291',
+            '0',
+            '8622',
+            '1',
+            'Nasbigold',
+            0,
+            2,
+            3,
+            122,
+            1221,
+            0.13,
+            '',
+            '1627486815192',
+            '1627486815192'
+        );
+
+2021-07-28 11:40:15---> #SUBASTAS# Insertar Carrito [uid_producto] ---->: 868
+
+2021-07-28 11:40:15--->========SE INSERTA EN EL CARRITO=========
+
+2021-07-28 11:40:15---> #SUBASTAS# -----+> [ gestor envio / direcciones / 1 ]: [{"id":"634","id_shippo":null,"uid":"1291","empresa":"0","pais":"47","departamento":"8","ciudad":"Barranquilla","latitud":"11.0041072","longitud":"-74.8069813","codigo_postal":"080012","direccion":"calle 53 con carrera 19","activa":"1","estado":"1","fecha_creacion":"1626709725513","fecha_actualizacion":"1627053509617","dane":"08001000","id_producto":null}]
+
+2021-07-28 11:40:15---> #SUBASTAS# -----+> [ gestor envio / direcciones / 2 ]: {"id":"634","id_shippo":null,"uid":"1291","empresa":"0","pais":"47","departamento":"8","ciudad":"Barranquilla","latitud":"11.0041072","longitud":"-74.8069813","codigo_postal":"080012","direccion":"calle 53 con carrera 19","activa":"1","estado":"1","fecha_creacion":"1626709725513","fecha_actualizacion":"1627053509617","dane":"08001000","id_producto":null}
+
+2021-07-28 11:40:15---> #SUBASTAS# -----+> [ gestor envio / dataSend ]: {"data":{"id_direccion_destino":"634","fecha_consulta":1627486815239,"cantidad_producto":1,"productos":[{"id_producto":8622}]}}
+
+2021-07-28 11:40:16---> #SUBASTAS# -----+> [ gestor envio / response ]: {"status":"success","message":"respuesta succes ","data":{"total_de_valor_envio_mask":"45,300.00","data_tcc_de_cada_producto":[{"consultarliquidacion2Result":{"idliquidacion":"679968817","moneda":{"id":"105","descripcion":"PESO COLOMBIANO","abreviatura":"COP"},"total":{"valortarifa":"15300","totalpesofacturado":"1","totalpesoreal":"1","totalpesovolumen":"1","totalunidades":"1","totaldespacho":"45300","totaldespacho_mask":"45,300.00","valor_envio_moneda_local":"45300","valor_envio_moneda_local_mask":"45,300.00"},"conceptos":{"Concepto":[{"idconcepto":"1","descripcion":"FLETE","valor":"15300"},{"idconcepto":"58","descripcion":"FLETE MANEJO","valor":"30000"}]},"subtotales":{"ConceptoAgrupado":[{"idtipoconcepto":"1","descripcion":"FLETE","valor":"15300"},{"idtipoconcepto":"58","descripcion":"FLETE MANEJO","valor":"30000"}]},"tipotarifa":{"id":"6","descripcion":"ACUERDOS COMERCIALES","abreviatura":"AC"},"respuesta":{"codigo":"0","mensaje":"Liquidaci\u00f3n realizada satisfactoriamente.,","codigointerno":"0","mensajeinterno":"Liquidaci\u00f3n realizada satisfactoriamente,"}},"status":"success","id_producto":8622}],"total_de_valor_envio":45300,"valor_envio_total_moneda_local":45300,"valor_envio_total_moneda_local_mask":"45,300.00","total_de_peso_volumen":1},"data_enviada_a_tcc":[{"Liquidacion":{"tipoenvio":2,"idciudadorigen":"05002000","idciudaddestino":"08001000","cuenta":5784900,"valormercancia":1500000,"fecharemesa":"2021-07-28","idunidadestrategicanegocio":2,"unidades":{"unidad":{"numerounidades":1,"pesoreal":1,"pesovolumen":1,"tipoempaque":""}}},"status":"success","id_producto":8622}],"bandera_ocurrio_error_product":0}
+
+2021-07-28 11:40:16---> #SUBASTAS# -----+> [ gestor envio / success ]: {"status":"success","message":"respuesta succes ","data":{"total_de_valor_envio_mask":"45,300.00","data_tcc_de_cada_producto":[{"consultarliquidacion2Result":{"idliquidacion":"679968817","moneda":{"id":"105","descripcion":"PESO COLOMBIANO","abreviatura":"COP"},"total":{"valortarifa":"15300","totalpesofacturado":"1","totalpesoreal":"1","totalpesovolumen":"1","totalunidades":"1","totaldespacho":"45300","totaldespacho_mask":"45,300.00","valor_envio_moneda_local":"45300","valor_envio_moneda_local_mask":"45,300.00"},"conceptos":{"Concepto":[{"idconcepto":"1","descripcion":"FLETE","valor":"15300"},{"idconcepto":"58","descripcion":"FLETE MANEJO","valor":"30000"}]},"subtotales":{"ConceptoAgrupado":[{"idtipoconcepto":"1","descripcion":"FLETE","valor":"15300"},{"idtipoconcepto":"58","descripcion":"FLETE MANEJO","valor":"30000"}]},"tipotarifa":{"id":"6","descripcion":"ACUERDOS COMERCIALES","abreviatura":"AC"},"respuesta":{"codigo":"0","mensaje":"Liquidaci\u00f3n realizada satisfactoriamente.,","codigointerno":"0","mensajeinterno":"Liquidaci\u00f3n realizada satisfactoriamente,"}},"status":"success","id_producto":8622}],"total_de_valor_envio":45300,"valor_envio_total_moneda_local":45300,"valor_envio_total_moneda_local_mask":"45,300.00","total_de_peso_volumen":1},"data_enviada_a_tcc":[{"Liquidacion":{"tipoenvio":2,"idciudadorigen":"05002000","idciudaddestino":"08001000","cuenta":5784900,"valormercancia":1500000,"fecharemesa":"2021-07-28","idunidadestrategicanegocio":2,"unidades":{"unidad":{"numerounidades":1,"pesoreal":1,"pesovolumen":1,"tipoempaque":""}}},"status":"success","id_producto":8622}],"bandera_ocurrio_error_product":0}
+
+2021-07-28 11:40:16---> #SUBASTAS# -----+> [ gestor envio / success / flete ]: 45300
+
+2021-07-28 11:40:16---> #SUBASTAS# -----+> [ gestor envio / success / subasta ]: {"id":463,"id_producto":8622,"moneda":"Nasbigold","precio":0.013211,"precio_usd":396.35,"cantidad":1,"tipo":2,"estado":3,"apostadores":23,"inscritos":25,"inscritos_activacion_subasta":"25","fecha_fin":1627485753597,"fecha_creacion":1627485753597,"fecha_actualizacion":1627486769720,"fecha_inicio":"1627658553597","uid_producto":1614,"cantidad_producto":"1","producto":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","marca":"Adids","modelo":"jd","titulo":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","descripcion":"Ignora el pron\u00f3stico del tiempo. Esta chaqueta adidas para correr te mantiene c\u00f3modo en todos los tipos de clima. Su dise\u00f1o con capucha es impermeable para que te puedas enfrentar al viento y la lluvia con tranquilidad. Los detalles reflectivos en los costados te hacen m\u00e1s visible en condiciones de poca luz.\n\n","empresa_producto":0,"tipo_envio":"2","exposicion":3,"categoria":122,"subcategoria":1221,"porcentaje_tax":"0.00","oferta":"0","precio_local":1500000,"porcentaje_oferta":"0.00","moneda_local":"COP","id_direccion":"599","uid":1291,"empresa":0,"estado_inscrito":2,"id_inscrito":218,"costo_ticket_usd":"7.00","porcentaje_gratuita":"0.00","porcentaje_clasica":"0.11","porcentaje_premium":"0.13","precio_mask":"0.01","precio_usd_mask":"396.35","comisiones_categoria":0.13,"detalle_producto_colores_tallas":[],"fecha":1627486815192,"flete":45300}
+
+2021-07-28 11:40:16---> #SUBASTAS# -----+> [ insertarxtransaccion ]: INSERT INTO productos_transaccion
+            (
+                id_carrito,
+                id_producto,
+                uid_vendedor,
+                uid_comprador,
+                cantidad,
+                boolcripto,
+                moneda,
+                precio,
+                precio_comprador,
+                precio_usd,
+                precio_moneda_actual_usd,
+                tipo,
+                estado,
+                contador,
+                id_metodo_pago,
+                empresa,
+                empresa_comprador,
+                descripcion_extra,
+                refer,
+                exposicion_pt,
+                categoria_pt,
+                subcategoria_pt,
+                comisiones_categoria_pt,
+                refer_porcentaje_comision,
+                refer_porcentaje_comision_idplan,
+                refer_porcentaje_comision_plan,
+                fecha_creacion,
+                fecha_actualizacion,
+                precio_envio,
+                precio_segundo_pago,
+                moneda_segundo_pago,
+                pago_digital_id,
+                pago_digital_calculos_pasarelas_id,
+                id_carrito_lote_transaccion
+            )
+            VALUES
+            (
+                868,
+                8622,
+                1614,
+                1291,
+                1,
+                1,
+                'Nasbigold',
+                1350000,
+                1500000,
+                356.715,
+                3784.5338715782,
+                2,
+                6,
+                0,
+                1,
+                0,
+                0,
+                '',
+                '',
+                3,
+                122,
+                1221,
+                0.13,
+                0.13,
+                10,
+                0.05,
+                1627486815192,
+                1627486815192,
+                45300,
+                0,
+                '',
+                0,
+                0,
+                868
+            )
+
+2021-07-28 11:40:16---> #SUBASTAS# -----+> [ productoTransaccion ]: 602
+
+2021-07-28 11:40:16---> #SUBASTAS# MIS_SUBASTAS | BLOQUEO: {"subasta":{"id":463,"id_producto":8622,"moneda":"Nasbigold","precio":0.013211,"precio_usd":396.35,"cantidad":1,"tipo":2,"estado":3,"apostadores":23,"inscritos":25,"inscritos_activacion_subasta":"25","fecha_fin":1627485753597,"fecha_creacion":1627485753597,"fecha_actualizacion":1627486769720,"fecha_inicio":"1627658553597","uid_producto":1614,"cantidad_producto":"1","producto":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","marca":"Adids","modelo":"jd","titulo":"CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","descripcion":"Ignora el pron\u00f3stico del tiempo. Esta chaqueta adidas para correr te mantiene c\u00f3modo en todos los tipos de clima. Su dise\u00f1o con capucha es impermeable para que te puedas enfrentar al viento y la lluvia con tranquilidad. Los detalles reflectivos en los costados te hacen m\u00e1s visible en condiciones de poca luz.\n\n","empresa_producto":0,"tipo_envio":"2","exposicion":3,"categoria":122,"subcategoria":1221,"porcentaje_tax":"0.00","oferta":"0","precio_local":1500000,"porcentaje_oferta":"0.00","moneda_local":"COP","id_direccion":"599","uid":1291,"empresa":0,"estado_inscrito":2,"id_inscrito":218,"costo_ticket_usd":"7.00","porcentaje_gratuita":"0.00","porcentaje_clasica":"0.11","porcentaje_premium":"0.13","precio_mask":"0.01","precio_usd_mask":"396.35","comisiones_categoria":0.13,"detalle_producto_colores_tallas":[],"fecha":1627486815192,"flete":45300},"puja":{"id":723,"uid":1291,"id_subasta":463,"monto":1350000,"moneda_local_simbol":"COP","monto_usd":"356.710000","monto_cripto":"0.011890","fecha_creacion":1627486769720,"fecha_actualizacion":1627486769720,"fecha_final":"1627486814720","username":"felix","monto_mask":"1,350,000.00"},"dineropuja":{"id":1478,"uid":1291,"empresa":0,"id_transaccion":463,"id_producto":"0","tipo_transaccion":2,"moneda":"Nasbigold","address":"d04a4ca27c87199c158172765875c4e7","precio":22226746.12,"precio_momento_usd":30000,"precio_en_cripto":"0.0000000000","tipo":1,"accion":1,"descripcion":"Subasta CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN","fecha_creacion":1627486736869,"fecha_actualizacion":1627486736869,"precio_mask":"22,226,746.12","precio_momento_usd_mask":"30,000.00","precio_usd":"666802383600.00","precio_usd_mask":"666,802,383,600.00"},"precios":{"Nasbigold":30000,"Nasbiblue":60000},"puja[monto]":1350000,"subasta[flete]":45300,"precio_divisa_en_usd":3784.5338715781504,"puja_monto_en_cripto":0.011890500000000002,"dataBloqueo":{"id":null,"uid":1291,"empresa":0,"moneda":"Nasbigold","all":false,"precio":1395300,"precio_momento_usd":356.71500000000003,"precio_en_cripto":0.011890500000000002,"address":"d04a4ca27c87199c158172765875c4e7","id_transaccion":868,"tipo_transaccion":2,"tipo":"bloqueado","accion":"push","descripcion":"Art\u00edculo CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN adquirido en subasta.","fecha":1627486815192,"id_producto":8622},"bloqueo":{"status":"success","message":"cobro realizado","data":1479},"data_diferido":{"id":null,"uid":313,"empresa":1,"moneda":"Nasbigold","all":false,"precio":1395300,"precio_momento_usd":356.71500000000003,"precio_en_cripto":0.011890500000000002,"address":"d2aadd33ff7911faf0520368285de0a4","id_transaccion":868,"tipo_transaccion":2,"tipo":"diferido","accion":"push","descripcion":"Art\u00edculo CHAQUETA ROMPEVIENTOS CON CAPUCHA OWN THE RUN adquirido en subasta.","fecha":1627486815192,"id_producto":8622},"diferido":{"status":"success","message":"cobro realizado","data":1480}}
+
+2021-07-28 11:55:05--->insert
+
+2021-07-28 11:55:05--->PRODUCTO REVISION ID ======> 8621
+
+2021-07-28 14:33:40--->insert
+
+2021-07-28 14:33:40--->PRODUCTO REVISION ID ======> 8618
+
+2021-07-28 15:20:41--->CATEGORIA ====> [{"id":"2","descripcion":"Silver","rango_inferior_usd":"301.00","rango_superior_usd":"500.00","num_apostadores":"25","costo_ticket_usd":"7.00"}]
+
+2021-07-28 15:34:57--->UPDATE
+
+2021-07-28 15:34:57--->PRODUCTO REVISION ID ======> 1
+
+2021-07-28 16:08:53--->CATEGORIA ====> [{"id":"4","descripcion":"Platinum","rango_inferior_usd":"1001.00","rango_superior_usd":"5000.00","num_apostadores":"58","costo_ticket_usd":"30.00"}]
+
+2021-07-28 16:09:24--->CATEGORIA ====> [{"id":"4","descripcion":"Platinum","rango_inferior_usd":"1001.00","rango_superior_usd":"5000.00","num_apostadores":"58","costo_ticket_usd":"30.00"}]
+
+2021-07-28 16:16:13--->insert
+
+2021-07-28 16:16:13--->PRODUCTO REVISION ID ======> 8623
+
+2021-07-28 16:42:52--->CATEGORIA ====> [{"id":"1","descripcion":"Bronze","rango_inferior_usd":"250.00","rango_superior_usd":"300.00","num_apostadores":"21","costo_ticket_usd":"5.00"}]
+
+2021-07-28 16:53:21--->insert
+
+2021-07-28 16:53:21--->PRODUCTO REVISION ID ======> 8624
+
+2021-07-28 19:09:58--->UPDATE
+
+2021-07-28 19:09:58--->PRODUCTO REVISION ID ======> 1
+
+2021-07-29 09:05:43--->CATEGORIA ====> [{"id":"1","descripcion":"Bronze","rango_inferior_usd":"250.00","rango_superior_usd":"300.00","num_apostadores":"21","costo_ticket_usd":"5.00"}]
+
+2021-07-29 09:05:49--->CATEGORIA ====> [{"id":"1","descripcion":"Bronze","rango_inferior_usd":"250.00","rango_superior_usd":"300.00","num_apostadores":"21","costo_ticket_usd":"5.00"}]
+
+2021-07-29 09:22:57--->CATEGORIA ====> [{"id":"1","descripcion":"Bronze","rango_inferior_usd":"250.00","rango_superior_usd":"300.00","num_apostadores":"21","costo_ticket_usd":"5.00"}]
+
+2021-07-29 09:23:09--->CATEGORIA ====> [{"id":"4","descripcion":"Platinum","rango_inferior_usd":"1001.00","rango_superior_usd":"5000.00","num_apostadores":"58","costo_ticket_usd":"30.00"}]
+
+2021-07-29 09:25:04--->CATEGORIA ====> [{"id":"4","descripcion":"Platinum","rango_inferior_usd":"1001.00","rango_superior_usd":"5000.00","num_apostadores":"58","costo_ticket_usd":"30.00"}]
+
+2021-07-29 09:29:12--->insert
+
+2021-07-29 09:29:12--->PRODUCTO REVISION ID ======> 8626
+
+2021-07-29 09:29:33--->insert
+
+2021-07-29 09:29:33--->PRODUCTO REVISION ID ======> 8625
+
+2021-07-29 09:52:53--->CATEGORIA ====> [{"id":"4","descripcion":"Platinum","rango_inferior_usd":"1001.00","rango_superior_usd":"5000.00","num_apostadores":"58","costo_ticket_usd":"30.00"}]
+
+2021-07-29 09:53:06--->CATEGORIA ====> [{"id":"4","descripcion":"Platinum","rango_inferior_usd":"1001.00","rango_superior_usd":"5000.00","num_apostadores":"58","costo_ticket_usd":"30.00"}]
+
+2021-07-29 12:26:35--->CATEGORIA ====> []
+
+2021-07-30 13:42:29--->insert
+
+2021-07-30 13:42:29--->PRODUCTO REVISION ID ======> 8628
+
+2021-07-31 11:15:54--->1). [Producto_subasta/inscribirseSubasta/inscribirseSubasta]: {"id":"448","uid":"1291","empresa":"0","ticket":"6","cantidad":"1","cantidad_ticket":"1","address":"d04a4ca27c87199c158172765875c4e7","fecha":1627744554710}
+
+2021-07-31 11:15:54--->2). [Producto_subasta/inscribirseSubasta/entradaxxubastasxnormales]: 0.029
+
+2021-07-31 11:15:54--->3). [Producto_subasta/inscribirseSubasta/subasta]: {"id":448,"id_producto":8594,"moneda":"Nasbigold","precio":0.001145,"precio_usd":34.35,"cantidad":1,"tipo":6,"estado":1,"apostadores":15,"inscritos":0,"inscritos_activacion_subasta":0,"fecha_fin":1627057093652,"fecha_creacion":1627057093652,"fecha_actualizacion":1627057093652,"fecha_inicio":"1627143493652","producto":"Sandalias Crocs Yukon Cuero ","marca":"yukon","modelo":"ghg","titulo":"Sandalias Crocs Yukon Cuero ","descripcion":"muy buena calidad","uid":"1614","empresa":"0","precioProducto":130000,"moneda_local":"COP","oferta":0,"tipoSubasta":"6","porcentaje_oferta":0,"exposicion":"3","pais":"47","precio_mask":"0.001145","precio_usd_mask":"34.35","porcentaje_entrada":"0.00","porcentaje_entrada_mask":"0.00","porcentaje_entrada_usd":"0.99","porcentaje_entrada_usd_mask":"0.99","porcentaje_entrada_local_user":"0.99","porcentaje_entrada_local_user_mask":"0.99","_dataRecibida":{"id":"448","uid":"1291","empresa":"0","ticket":"6","cantidad":"1","cantidad_ticket":"1","address":"d04a4ca27c87199c158172765875c4e7"},"_dataMonedaLocal":{"code":"COP","costo_dolar":3559.5,"nombre_moneda":"Colombian Peso","iso_code_2":"CO","country_id":"47"},"precio_local_user":34.35,"precio_local_user_mask":"34.35","moneda_local_user":"USD","porcentaje":0,"precio_subasta_local_user":34.35,"precio_subasta_local_user_mask":"34.35","array_fotos":[{"id":16176,"id_publicacion":8594,"foto":"https:\/\/nasbi.peers2win.com\/imagenes\/publicaciones\/8594\/1627057093652_0.png","estado":1,"fecha_creacion":1627057093652,"fecha_actualizacion":1627057093652}]}
+
+2021-07-31 11:15:54--->3). porcentajexentrada: 3770.00
+
+2021-07-31 11:15:54--->4). moneda de iscripcionNasbigold
+
+2021-07-31 11:15:54--->{"status":"success","uid":1291,"nasbicoin_gold":{"id":9,"uid":1291,"empresa":0,"address":"d04a4ca27c87199c158172765875c4e7","monto":8170446.12,"moneda":"Nasbigold","estado":1,"fecha_creacion":1607725961824,"fecha_actualizacion":1627682412521,"monto_mask":"8,170,446.12","monto_usd":245113383600,"monto_usd_mask":"245,113,383,600.00","nasbicoin_transacciones":null,"precio_actual":30000,"precio_actual_mask":"30,000.00","precio_actual_local_user":106785000,"precio_actual_local_user_mask":"106,785,000.00","precio_actual_moneda_local":"COP","monto_local_user":"872481088924200.00","monto_local_user_mask":"872,481,088,924,200.00"},"nasbicoin_blue":{"id":3,"uid":1291,"empresa":0,"address":"ef400f4c4d7fbd7cd1409aa8453d36f1","monto":64047.61,"moneda":"Nasbiblue","estado":1,"fecha_creacion":1607725966245,"fecha_actualizacion":1626098165903,"monto_mask":"64,047.61","monto_usd":3842856600,"monto_usd_mask":"3,842,856,600.00","nasbicoin_transacciones":null,"precio_actual":60000,"precio_actual_mask":"60,000.00","precio_actual_local_user":213570000,"precio_actual_local_user_mask":"213,570,000.00","precio_actual_moneda_local":"COP","monto_local_user":"13678648067700.00","monto_local_user_mask":"13,678,648,067,700.00"}}
+
+2021-07-31 11:15:54--->4). [Producto_subasta/inscribirseSubasta/dataEnviarDinero]: {"moneda":"Nasbigold","uid_envia":"1291","empresa_envia":"0","addres_envia":"d04a4ca27c87199c158172765875c4e7","uid_recibe":1333,"empresa_recibe":0,"addres_recibe":"aa97273806290a2ef074a95ef71d1a7b","monto":"3770.00","tipo":4,"id_transaccion":"448_1291","fecha":1627744554710}
