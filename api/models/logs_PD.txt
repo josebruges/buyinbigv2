@@ -1,0 +1,304 @@
+
+2021-07-07 13:25:12===>------+> PAGO DIGITAL / CREAR TOKEN CARD / DATA: {"UID":"2744","EMPRESA":"0","NOMBRE_TARJETA":"JENNIFER GOMEZ ","PAN":"4916460373848200","CVV2":"160","MES_EXP":"07","ANO_EXP":"26","FRANQUICIA":"90"}
+
+2021-07-07 13:25:12===>-----+> [ strlen-0 ]: {"NOMBRE":"Jennifer Gomez Casallas","IDENTIFICACION":"1234567890","EMAIL":"pruebanasbi10@gmail.com","TELEFONO":"3164668147","CIUDAD":"Bogot\u00e1, D.C."}
+
+2021-07-07 13:25:12===>-----+> [ strlen-1 ]: 
+
+2021-07-07 13:25:12===>-----+> [ strlen-2 ]: 1
+
+2021-07-07 13:25:12===>-----+> [ strlen-3 ]: 0
+
+2021-07-07 13:25:12===>------+> hey :::: [ datos_usuario ]: [{"NOMBRE":"Jennifer Gomez Casallas","IDENTIFICACION":"1234567890","EMAIL":"pruebanasbi10@gmail.com","TELEFONO":"3164668147","CIUDAD":"Bogot\u00e1, D.C."}]
+
+2021-07-07 13:25:12===>------+> hey :::: [ datos_pago_digital ]: [{"CORREO":"pruebanasbi10@gmail.com","TELEFONO":"3164668147"}]
+
+2021-07-07 13:25:12===>------+> hey :::: [ empresa ]: 0
+
+2021-07-07 13:25:12===>-----+> map usuario: {"NOMBRE":"Jennifer Gomez Casallas","IDENTIFICACION":"1234567890","EMAIL":"pruebanasbi10@gmail.com","TELEFONO":"3164668147"}
+
+2021-07-07 13:25:12===>------+> PAGO DIGITAL / CREAR TOKEN CARD / data_usuario: {"status":"success","message":"Datos completos del usuario","datos_usuario":{"NOMBRE":"Jennifer Gomez Casallas","IDENTIFICACION":"1234567890","EMAIL":"pruebanasbi10@gmail.com","TELEFONO":"3164668147"},"form_pago_digital":{"TELEFONO":"3164668147","CORREO":"pruebanasbi10@gmail.com"},"datos_residencia":{"CIUDAD":"Bogot\u00e1, D.C.","DIRECCION":"Carrera 27a bis # 61c-40","DEPARTAMENTO":"Bogota, D.C."}}
+
+2021-07-07 13:25:15===>------+> PAGO DIGITAL / CREAR TOKEN CARD / URL: https://www.pagodigital.co/WS_NASBI/API/TARJETA_CREDITO/TOKEN_CARD/
+
+2021-07-07 13:25:15===>------+> PAGO DIGITAL / CREAR TOKEN CARD / dataSend: {"API_KEY":"HK40DPG01VAKDF6PTMVF","API_SECRET":"AOZ3KMVYEEXLJ9OMXPEC","JWT":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MjU2Nzg1OTAsImV4cCI6MTYyNTY4MjE5MCwiSldUX1RPS0VOIjoiVE8zR0hFRlBJTldHRVZEWkM4S1hFTVhCUjQxR05DWUIwNFVWM0lFQSJ9.31ClBVa1DTq11EdxeG5qGWAhdhtspk1ZrjDjrLu_VSg","PAN":"4916460373848200","CVV2":"160","MES_EXP":"07","ANO_EXP":"26","NOMBRE":"Jennifer Gomez Casallas","CEDULA":"1234567890","DIRECCION":"Carrera 27a bis # 61c-40","CORREO":"pruebanasbi10@gmail.com","TELEFONO":"3164668147","CIUDAD":"Bogot\u00e1, D.C.","DEPARTAMENTO":"Bogota, D.C.","FRANQUICIA":"90"}
+
+2021-07-07 13:25:15===>------+> PAGO DIGITAL / CREAR TOKEN CARD / response: {"STATUS":"200","CODIGO_ERROR":"PD38","ERROR":"Esta tarjeta ya se encuentra registrada para este usuario.FOTJQ89DBTVUJ9HZFRLE"}
+
+2021-07-07 13:25:15===>------+> [ información respuesta TOKE CARD PAGO DIGITAL ]: {"STATUS":"200","CODIGO_ERROR":"PD38","ERROR":"Esta tarjeta ya se encuentra registrada para este usuario.FOTJQ89DBTVUJ9HZFRLE"}
+
+2021-07-07 13:25:15===>------+> PAGO DIGITAL / CREAR TOKEN CARD / (0) mensajerespuesta: {"status":"fail","message":"ERROR NO MANEJADO"}
+
+2021-07-07 13:25:15===>------+> PAGO DIGITAL / CREAR TOKEN CARD / (1) mensajerespuesta: {"status":"fail","message":"ERROR NO MANEJADO"}
+
+2021-07-07 13:29:42===>------+> PAGO DIGITAL / CREAR TOKEN CARD / DATA: {"UID":"2744","EMPRESA":"0","NOMBRE_TARJETA":"JENNIFER GOMEZ ","PAN":"4882460012451606","CVV2":"269","MES_EXP":"06","ANO_EXP":"24","FRANQUICIA":"90"}
+
+2021-07-07 13:29:42===>-----+> [ strlen-0 ]: {"NOMBRE":"Jennifer Gomez Casallas","IDENTIFICACION":"1234567890","EMAIL":"pruebanasbi10@gmail.com","TELEFONO":"3164668147","CIUDAD":"Bogot\u00e1, D.C."}
+
+2021-07-07 13:29:42===>-----+> [ strlen-1 ]: 
+
+2021-07-07 13:29:42===>-----+> [ strlen-2 ]: 1
+
+2021-07-07 13:29:42===>-----+> [ strlen-3 ]: 0
+
+2021-07-07 13:29:42===>------+> hey :::: [ datos_usuario ]: [{"NOMBRE":"Jennifer Gomez Casallas","IDENTIFICACION":"1234567890","EMAIL":"pruebanasbi10@gmail.com","TELEFONO":"3164668147","CIUDAD":"Bogot\u00e1, D.C."}]
+
+2021-07-07 13:29:42===>------+> hey :::: [ datos_pago_digital ]: [{"CORREO":"pruebanasbi10@gmail.com","TELEFONO":"3164668147"}]
+
+2021-07-07 13:29:42===>------+> hey :::: [ empresa ]: 0
+
+2021-07-07 13:29:42===>-----+> map usuario: {"NOMBRE":"Jennifer Gomez Casallas","IDENTIFICACION":"1234567890","EMAIL":"pruebanasbi10@gmail.com","TELEFONO":"3164668147"}
+
+2021-07-07 13:29:42===>------+> PAGO DIGITAL / CREAR TOKEN CARD / data_usuario: {"status":"success","message":"Datos completos del usuario","datos_usuario":{"NOMBRE":"Jennifer Gomez Casallas","IDENTIFICACION":"1234567890","EMAIL":"pruebanasbi10@gmail.com","TELEFONO":"3164668147"},"form_pago_digital":{"TELEFONO":"3164668147","CORREO":"pruebanasbi10@gmail.com"},"datos_residencia":{"CIUDAD":"Bogot\u00e1, D.C.","DIRECCION":"Carrera 27a bis # 61c-40","DEPARTAMENTO":"Bogota, D.C."}}
+
+2021-07-07 13:29:48===>------+> PAGO DIGITAL / CREAR TOKEN CARD / URL: https://www.pagodigital.co/WS_NASBI/API/TARJETA_CREDITO/TOKEN_CARD/
+
+2021-07-07 13:29:48===>------+> PAGO DIGITAL / CREAR TOKEN CARD / dataSend: {"API_KEY":"HK40DPG01VAKDF6PTMVF","API_SECRET":"AOZ3KMVYEEXLJ9OMXPEC","JWT":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MjU2Nzg4NjAsImV4cCI6MTYyNTY4MjQ2MCwiSldUX1RPS0VOIjoiUEEyR0NFOFhZVzdQNzhTT001WkszODdHTVdGNTc1UTdDSVYxUzc0WSJ9.oI8Kg2OUMPMJWOq8MkL8oNoDSbdkQ7fNRZ32GQPcXTM","PAN":"4882460012451606","CVV2":"269","MES_EXP":"06","ANO_EXP":"24","NOMBRE":"Jennifer Gomez Casallas","CEDULA":"1234567890","DIRECCION":"Carrera 27a bis # 61c-40","CORREO":"pruebanasbi10@gmail.com","TELEFONO":"3164668147","CIUDAD":"Bogot\u00e1, D.C.","DEPARTAMENTO":"Bogota, D.C.","FRANQUICIA":"90"}
+
+2021-07-07 13:29:48===>------+> PAGO DIGITAL / CREAR TOKEN CARD / response: {"STATUS":"200","STATUS_PD":"00","TOKEN":"4X0YJBB7F2FZHTE5CUPSOMOBHGWKP6","NUMERO_AUTORIZACION":"750179","CODIGO_RESPUESTA":"00","NUMERO_RECIBO":"129790400","NUMERO_TERMINAL":"44770","CODIGO_UNICO":"016276750","RESPUESTA":"Aprobada","MICRODEBITO":"904"}
+
+2021-07-07 13:29:48===>------+> [ información respuesta TOKE CARD PAGO DIGITAL ]: {"STATUS":"200","STATUS_PD":"00","TOKEN":"4X0YJBB7F2FZHTE5CUPSOMOBHGWKP6","NUMERO_AUTORIZACION":"750179","CODIGO_RESPUESTA":"00","NUMERO_RECIBO":"129790400","NUMERO_TERMINAL":"44770","CODIGO_UNICO":"016276750","RESPUESTA":"Aprobada","MICRODEBITO":"904"}
+
+2021-07-07 13:29:48===>------+> PAGO DIGITAL / CREAR TOKEN CARD / (0) mensajerespuesta: {"status":"success","message":"Tarjeta de credito registrada exitosamente."}
+
+2021-07-07 13:29:48===>------+> PAGO DIGITAL / CREAR TOKEN CARD / (1) mensajerespuesta: {"status":"success","message":"Tarjeta de credito registrada exitosamente.","data":{"NOMBRE_TARJETA":"JENNIFER GOMEZ ","TOKEN":"4X0YJBB7F2FZHTE5CUPSOMOBHGWKP6","FRANQUICIA":"90"}}
+
+2021-07-07 13:35:09===>----+> [TOKEN CARD]: {"ID":"5","UID":"2744","EMPRESA":"0","NOMBRE":"JENNIFER GOMEZ ","TOKEN":"K8MF9CSPCJ7GLJWARWQS3M09Z5FL4R","CODIGO_PAN":"8200","PAGO_DIGITAL_FRANQUICIAS_ID":"90","JSON_RESPUESTA":"{\"STATUS\":\"200\",\"STATUS_PD\":\"00\",\"TOKEN\":\"K8MF9CSPCJ7GLJWARWQS3M09Z5FL4R\",\"NUMERO_AUTORIZACION\":\"111013\",\"CODIGO_RESPUESTA\":\"00\",\"NUMERO_RECIBO\":\"127811244\",\"NUMERO_TERMINAL\":\"44770\",\"CODIGO_UNICO\":\"016276750\",\"RESPUESTA\":\"Aprobada\",\"MICRODEBITO\":\"565\"}","FECHA_CREACION":"1624637414000","ESTADO":"1","MICRODEBITO":"565"}
+
+2021-07-07 13:35:09===>----+> [ dataSend ]: {"ID":154,"STATUS":0,"REF_LOCAL":"","TOTAL_COMPRA":31000,"PRECIO_USD":0,"TIPO":1,"UID":2744,"EMPRESA":0,"NOMBRE_COMPRADOR":"Jennifer Gomez Casallas","CEDULA_COMPRADOR":"1234567890","TELEFONO_COMPRADOR":3164668147,"CORREO_COMPRADOR":"pruebanasbi10@gmail.com","DIRECCION_COMPRADOR":"Carrera 27a bis # 61c-40","CIUDAD":"Bogot\u00e1, D.C.","COD_DANE":"11001000","DEPARTAMENTO":"Bogota, D.C.","CODIGO_BANCO":0,"NOMBRE_BANCO":"","TIPO_PERSONA":"N","TIPO_DOCUMENTO":"CC","ISO_CODE_2":"CO","METODO_PAGO_USADO_ID":1,"TRANSACCION_FINALIZADA":"0","JSON_SOLICITUD":{"data":{"carrito":{"id":"706","uid":"2744","empresa":"0","precio_moneda_actual_usd":"3785.1"},"metodo_pago":{"id":"2","bd":"0","bs":"0","address_comprador":"","address_comprador_sd":"561c184fae52d951709aaf6451f4dc9f","address_comprador_bd":"e81f8165c02bdaa53bb6662d0c9ebfa5","desc":"0"},"direccion":{"id":"528"},"coloresXtallas":[{"id_producto":"1068","producto_titulo":"Set de 3 corazones medianos","variaciones":[{"color":"#e66074","tallaES":"No aplica","tallaEN":"Does not apply","id_pair":"6125","cantidad_disponible":"10","cantidad_ingresada_carrito":"1","especificaciones":[{"id":"386","id_transaccion":"706","id_carrito":"706","id_producto":"1068","id_detalle_producto_colores_tallas":"6125","cantidad":"1"}],"detalle_producto":[{"id_producto":"1068","id_pair":"6125","id_color":"74","color_nombre_es":"rosado","color_nombre_en":"rosado","hexadecimal":"#e66074","id_tallas":"81","talla_nombre_es":"No aplica","talla_nombre_en":"Does not apply","cantidad":"10","sku":""}]}]}],"descripcion_extra":"  "}},"FECHA_CREACION":1625678894000,"FECHA_ACTUALIZACION":1625678894000,"CONVENIO_PAGO":"","JSON_PROVEEDORES":[{"ID":173,"PAGO_DIGITAL_ID":154,"ID_PROVEEDOR":1340,"UID":2744,"EMPRESA":0,"VALOR":31000,"VALOR_REAL_COMPRA":"31000","COSTO_FLETE":0,"PRODUCTO":"Compra de Set x 3 Ca...","PRODUCTO_UID":1068,"PORCENTAJE_COMISION":0.1,"ISO_CODE_2":"CO","FECHA_CREACION":"1625678894000","FECHA_ACTUALIZACION":"1625678894000"}]}
+
+2021-07-07 13:35:09===>----+> [ selectxpagoxdigitalxreferenciasxtarjetaxdexcredito ]: []
+
+2021-07-07 13:35:09===>----+> [ QUERY ]: INSERT INTO buyinbig.pago_digital_referencias_tarjeta_de_credito (
+                        PAGO_DIGITAL_ID,
+                        PAGO_DIGITAL_JSON_PROVEEDORES_ID,
+                        PRODUCTO_UID,
+
+                        PAGO_DIGITAL_TOKEN_CARD_ID,
+                        PAGO_DIGITAL_TOKEN_CARD_TOKEN,
+
+                        AMOUNT,
+                        CUOTAS,
+
+                        REFPAY,
+                        PORCENTAJE_COMISION,
+                        ID_PROVEEDOR,
+                        COSTO_FLETE,
+
+                        FECHA_CREACION,
+                        FECHA_ACTUALIZACION
+                    ) VALUES (
+                        154,
+                        173,
+                        1068,
+
+                        5,
+                        'K8MF9CSPCJ7GLJWARWQS3M09Z5FL4R',
+
+                        31000,
+                        1,
+
+                        'Compra de Set x 3 Ca...',
+                        0.1,
+                        1340,
+                        0,
+
+                        1625679309000,
+                        1625679309000
+                    );
+
+2021-07-07 13:35:09===>----+> [ INSER ]: 8
+
+2021-07-07 13:36:00===>---+> (1) [TARJETA DE CREDITO MASIVO / Array]: [{"ID":"8","ESTADO":"0","ESTADO_DESCRIPCION":"En proceso","PAGO_DIGITAL_ID":"154","PAGO_DIGITAL_JSON_PROVEEDORES_ID":"173","PRODUCTO_UID":"1068","PAGO_DIGITAL_TOKEN_CARD_ID":"5","PAGO_DIGITAL_TOKEN_CARD_TOKEN":"K8MF9CSPCJ7GLJWARWQS3M09Z5FL4R","AMOUNT":"31000.00","CUOTAS":"1","REFPAY":"Compra de Set x 3 Ca...","PORCENTAJE_COMISION":"0.10","ID_PROVEEDOR":"1340","COSTO_FLETE":"0.00","RESPUESTA_JSON":null,"FECHA_CREACION":"1625679309000","FECHA_ACTUALIZACION":"1625679309000"}]
+
+2021-07-07 13:36:00===>---+> (2) [TARJETA DE CREDITO MASIVO / URL]: https://www.pagodigital.co/WS_NASBI/API/TARJETA_CREDITO/PROCESS_TRANSACTION/
+
+2021-07-07 13:36:00===>---+> (3) [TARJETA DE CREDITO MASIVO / dataSend]: {"API_KEY":"HK40DPG01VAKDF6PTMVF","API_SECRET":"AOZ3KMVYEEXLJ9OMXPEC","TOKEN":"K8MF9CSPCJ7GLJWARWQS3M09Z5FL4R","AMOUNT":31000,"CUOTAS":1,"REFPAY":"Compra de Set x 3 Ca...","PORCENTAJE_COMISION":0.1,"ID_PROVEEDOR":1340,"COSTO_FLETE":0,"JWT":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MjU2NzkyMzgsImV4cCI6MTYyNTY4MjgzOCwiSldUX1RPS0VOIjoiUzZOQlNQMjYxVlZEMDlWWkhCWkc0M1VGWTlTOThGVTNIU1JXWExNTCJ9.viC8z7_LXFmTVoriex-4UVUUQo6p66hdv139hDN8mdo"}
+
+2021-07-07 13:36:07===>---+> (4) [TARJETA DE CREDITO MASIVO / response]: {"STATUS":"200","NUMERO_AUTORIZACION":"123604","CODIGO_RESPUESTA":"000","NUMERO_RECIBO":"129791206","MENSAJE_RESPUESTA":"Aprobada","NUMERO_TERMINAL":"48012","CODIGO_UNICO":"016276750","ESTADO":"Aprobada","ID_REFERENCIA":"1340000287993416"}
+
+2021-07-07 13:36:07===>---+> (5) [TARJETA DE CREDITO MASIVO / Condicionales]: Aprobada
+
+2021-07-07 13:36:07===>---+> (5) [TARJETA DE CREDITO MASIVO / APROBADA / QUERY]: UPDATE buyinbig.pago_digital_referencias_tarjeta_de_credito 
+                SET
+                   ESTADO              = 1,
+                   ESTADO_DESCRIPCION  = 'FINALIZADA',
+                   RESPUESTA_JSON      = '{"STATUS":"200","NUMERO_AUTORIZACION":"123604","CODIGO_RESPUESTA":"000","NUMERO_RECIBO":"129791206","MENSAJE_RESPUESTA":"Aprobada","NUMERO_TERMINAL":"48012","CODIGO_UNICO":"016276750","ESTADO":"Aprobada","ID_REFERENCIA":"1340000287993416"}',
+                   FECHA_ACTUALIZACION = 1625679367000
+                WHERE ID = 8;
+
+2021-07-07 13:36:07===>---+> (6) [TARJETA DE CREDITO MASIVO / APROBADA / QUERY / RESULT]: 1
+
+2021-07-07 13:36:07===>---+> (7) [TARJETA DE CREDITO MASIVO / QUERY / productos_transaccion]: SELECT * FROM buyinbig.productos_transaccion WHERE pago_digital_id = 154 AND id_producto = 1068;
+
+2021-07-07 13:36:07===>---+> (18) [TARJETA DE CREDITO MASIVO / resultCallback]: Array
+
+2021-07-07 15:17:16===>----+> [TOKEN CARD]: {"ID":"1","UID":"328","EMPRESA":"1","NOMBRE":"CARLOS ZAMBRANO","TOKEN":"0GBC4TLCCA9923O3WCHGS4GFAY83AK","CODIGO_PAN":"5709","PAGO_DIGITAL_FRANQUICIAS_ID":"90","JSON_RESPUESTA":"{\"STATUS\":\"200\",\"STATUS_PD\":\"00\",\"TOKEN\":\"0GBC4TLCCA9923O3WCHGS4GFAY83AK\",\"NUMERO_AUTORIZACION\":\"002006\",\"CODIGO_RESPUESTA\":\"00\",\"NUMERO_RECIBO\":\"123981851\",\"NUMERO_TERMINAL\":\"44770\",\"CODIGO_UNICO\":\"016276750\",\"RESPUESTA\":\"Aprobada\",\"MICRODEBITO\":\"939\"}","FECHA_CREACION":"1622241245000","ESTADO":"1","MICRODEBITO":"939"}
+
+2021-07-07 15:17:16===>----+> [ dataSend ]: {"ID":156,"STATUS":0,"REF_LOCAL":"","TOTAL_COMPRA":90300,"PRECIO_USD":0,"TIPO":1,"UID":1291,"EMPRESA":0,"NOMBRE_COMPRADOR":"F\u00e9lix Espitia","CEDULA_COMPRADOR":"777","TELEFONO_COMPRADOR":3015486721,"CORREO_COMPRADOR":"felixespitia@hotmail.com","DIRECCION_COMPRADOR":"m c casa 25","CIUDAD":"Alb\u00e1n","COD_DANE":"25019000","DEPARTAMENTO":"Cundinamarca","CODIGO_BANCO":0,"NOMBRE_BANCO":"","TIPO_PERSONA":"N","TIPO_DOCUMENTO":"CC","ISO_CODE_2":"CO","METODO_PAGO_USADO_ID":4,"TRANSACCION_FINALIZADA":"0","JSON_SOLICITUD":{"data":{"carrito":{"id":"708","uid":"1291","empresa":"0","precio_moneda_actual_usd":"3786.16"},"metodo_pago":{"id":"2","bd":"0","bs":"0","address_comprador":"","address_comprador_sd":"d04a4ca27c87199c158172765875c4e7","address_comprador_bd":"ef400f4c4d7fbd7cd1409aa8453d36f1","desc":"0"},"direccion":{"id":"612"},"coloresXtallas":[{"id_producto":"549","producto_titulo":"Air Jordan 1 J Balvin","variaciones":[{"color":"#191515","tallaES":"+9 Meses","tallaEN":"+9 Months","id_pair":"356","cantidad_disponible":"9976","cantidad_ingresada_carrito":"3","especificaciones":[{"id":"388","id_transaccion":"708","id_carrito":"708","id_producto":"549","id_detalle_producto_colores_tallas":"356","cantidad":"3"}],"detalle_producto":[{"id_producto":"549","id_pair":"356","id_color":"19","color_nombre_es":"black","color_nombre_en":"black","hexadecimal":"#191515","id_tallas":"10","talla_nombre_es":"+9 Meses","talla_nombre_en":"+9 Months","cantidad":"9976","sku":""}]}]}],"descripcion_extra":"  "}},"FECHA_CREACION":1625685344000,"FECHA_ACTUALIZACION":1625685390000,"CONVENIO_PAGO":"","JSON_PROVEEDORES":[{"ID":175,"PAGO_DIGITAL_ID":156,"ID_PROVEEDOR":-1,"UID":1291,"EMPRESA":0,"VALOR":90300,"VALOR_REAL_COMPRA":"90300","COSTO_FLETE":0,"PRODUCTO":"Compra de Air Jordan...","PRODUCTO_UID":549,"PORCENTAJE_COMISION":0.1,"ISO_CODE_2":"CO","FECHA_CREACION":"1625685344000","FECHA_ACTUALIZACION":"1625685344000"}]}
+
+2021-07-07 15:17:16===>----+> [ selectxpagoxdigitalxreferenciasxtarjetaxdexcredito ]: []
+
+2021-07-07 15:17:16===>----+> [ QUERY ]: INSERT INTO buyinbig.pago_digital_referencias_tarjeta_de_credito (
+                        PAGO_DIGITAL_ID,
+                        PAGO_DIGITAL_JSON_PROVEEDORES_ID,
+                        PRODUCTO_UID,
+
+                        PAGO_DIGITAL_TOKEN_CARD_ID,
+                        PAGO_DIGITAL_TOKEN_CARD_TOKEN,
+
+                        AMOUNT,
+                        CUOTAS,
+
+                        REFPAY,
+                        PORCENTAJE_COMISION,
+                        ID_PROVEEDOR,
+                        COSTO_FLETE,
+
+                        FECHA_CREACION,
+                        FECHA_ACTUALIZACION
+                    ) VALUES (
+                        156,
+                        175,
+                        549,
+
+                        1,
+                        '0GBC4TLCCA9923O3WCHGS4GFAY83AK',
+
+                        90300,
+                        1,
+
+                        'Compra de Air Jordan...',
+                        0.1,
+                        -1,
+                        0,
+
+                        1625685436000,
+                        1625685436000
+                    );
+
+2021-07-07 15:17:16===>----+> [ INSER ]: 9
+
+2021-07-07 15:32:36===>----+> [TOKEN CARD]: {"ID":"1","UID":"328","EMPRESA":"1","NOMBRE":"CARLOS ZAMBRANO","TOKEN":"0GBC4TLCCA9923O3WCHGS4GFAY83AK","CODIGO_PAN":"5709","PAGO_DIGITAL_FRANQUICIAS_ID":"90","JSON_RESPUESTA":"{\"STATUS\":\"200\",\"STATUS_PD\":\"00\",\"TOKEN\":\"0GBC4TLCCA9923O3WCHGS4GFAY83AK\",\"NUMERO_AUTORIZACION\":\"002006\",\"CODIGO_RESPUESTA\":\"00\",\"NUMERO_RECIBO\":\"123981851\",\"NUMERO_TERMINAL\":\"44770\",\"CODIGO_UNICO\":\"016276750\",\"RESPUESTA\":\"Aprobada\",\"MICRODEBITO\":\"939\"}","FECHA_CREACION":"1622241245000","ESTADO":"1","MICRODEBITO":"939"}
+
+2021-07-07 15:32:36===>----+> [ dataSend ]: {"ID":157,"STATUS":0,"REF_LOCAL":"","TOTAL_COMPRA":90300,"PRECIO_USD":0,"TIPO":1,"UID":1291,"EMPRESA":0,"NOMBRE_COMPRADOR":"F\u00e9lix Espitia","CEDULA_COMPRADOR":"777","TELEFONO_COMPRADOR":3015486721,"CORREO_COMPRADOR":"felixespitia@hotmail.com","DIRECCION_COMPRADOR":"m c casa 25","CIUDAD":"Alb\u00e1n","COD_DANE":"25019000","DEPARTAMENTO":"Cundinamarca","CODIGO_BANCO":0,"NOMBRE_BANCO":"","TIPO_PERSONA":"N","TIPO_DOCUMENTO":"CC","ISO_CODE_2":"CO","METODO_PAGO_USADO_ID":4,"TRANSACCION_FINALIZADA":"0","JSON_SOLICITUD":{"data":{"carrito":{"id":"708","uid":"1291","empresa":"0","precio_moneda_actual_usd":"3786.16"},"metodo_pago":{"id":"2","bd":"0","bs":"0","address_comprador":"","address_comprador_sd":"d04a4ca27c87199c158172765875c4e7","address_comprador_bd":"ef400f4c4d7fbd7cd1409aa8453d36f1","desc":"0"},"direccion":{"id":"612"},"coloresXtallas":[{"id_producto":"549","producto_titulo":"Air Jordan 1 J Balvin","variaciones":[{"color":"#191515","tallaES":"+9 Meses","tallaEN":"+9 Months","id_pair":"356","cantidad_disponible":"9976","cantidad_ingresada_carrito":"3","especificaciones":[{"id":"388","id_transaccion":"708","id_carrito":"708","id_producto":"549","id_detalle_producto_colores_tallas":"356","cantidad":"3"}],"detalle_producto":[{"id_producto":"549","id_pair":"356","id_color":"19","color_nombre_es":"black","color_nombre_en":"black","hexadecimal":"#191515","id_tallas":"10","talla_nombre_es":"+9 Meses","talla_nombre_en":"+9 Months","cantidad":"9976","sku":""}]}]}],"descripcion_extra":"  "}},"FECHA_CREACION":1625686274000,"FECHA_ACTUALIZACION":1625686331000,"CONVENIO_PAGO":"","JSON_PROVEEDORES":[{"ID":176,"PAGO_DIGITAL_ID":157,"ID_PROVEEDOR":-1,"UID":1291,"EMPRESA":0,"VALOR":90300,"VALOR_REAL_COMPRA":"90300","COSTO_FLETE":0,"PRODUCTO":"Compra de Air Jordan...","PRODUCTO_UID":549,"PORCENTAJE_COMISION":0.12,"ISO_CODE_2":"CO","FECHA_CREACION":"1625686274000","FECHA_ACTUALIZACION":"1625686274000"}]}
+
+2021-07-07 15:32:36===>----+> [ selectxpagoxdigitalxreferenciasxtarjetaxdexcredito ]: []
+
+2021-07-07 15:32:36===>----+> [ QUERY ]: INSERT INTO buyinbig.pago_digital_referencias_tarjeta_de_credito (
+                        PAGO_DIGITAL_ID,
+                        PAGO_DIGITAL_JSON_PROVEEDORES_ID,
+                        PRODUCTO_UID,
+
+                        PAGO_DIGITAL_TOKEN_CARD_ID,
+                        PAGO_DIGITAL_TOKEN_CARD_TOKEN,
+
+                        AMOUNT,
+                        CUOTAS,
+
+                        REFPAY,
+                        PORCENTAJE_COMISION,
+                        ID_PROVEEDOR,
+                        COSTO_FLETE,
+
+                        FECHA_CREACION,
+                        FECHA_ACTUALIZACION
+                    ) VALUES (
+                        157,
+                        176,
+                        549,
+
+                        1,
+                        '0GBC4TLCCA9923O3WCHGS4GFAY83AK',
+
+                        90300,
+                        1,
+
+                        'Compra de Air Jordan...',
+                        0.12,
+                        -1,
+                        0,
+
+                        1625686356000,
+                        1625686356000
+                    );
+
+2021-07-07 15:32:36===>----+> [ INSER ]: 10
+
+2021-07-16 12:14:35===>1. Pago digital / crearProveedor / data: {"UID":"2744","EMPRESA":"0","PROVEEDOR_ID":"2020"}
+
+2021-07-16 12:14:35===>2. Pago digital / crearProveedor / validando existencia: No
+
+2021-07-16 12:14:35===>5. Pago digital / crearProveedor / ACTUALIZANDO: {"ID":"28","UID":"2744","EMPRESA":"0","PROVEEDOR_ID":"2021","ESTADO":"1","FECHA_CREACION":"1626451416000","FECHA_ACTUALIZACION":"1626451416000"}
+
+2021-07-16 12:44:03===>1. Pago digital / crearProveedor / data: {"UID":"2744","EMPRESA":"0","PROVEEDOR_ID":"2021"}
+
+2021-07-16 12:44:03===>2. Pago digital / crearProveedor / validando existencia: No
+
+2021-07-16 12:44:03===>5. Pago digital / crearProveedor / ACTUALIZANDO: {"ID":"28","UID":"2744","EMPRESA":"0","PROVEEDOR_ID":"2020","ESTADO":"1","FECHA_CREACION":"1626451416000","FECHA_ACTUALIZACION":"1626451416000"}
+
+2021-07-16 12:44:03===>1. Pago digital / crearProveedor / data: {"UID":"433","EMPRESA":"1","PROVEEDOR_ID":"2021"}
+
+2021-07-16 12:44:03===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-19 18:45:24===>1. Pago digital / crearProveedor / data: {"UID":"2705","EMPRESA":"0","PROVEEDOR_ID":"1373"}
+
+2021-07-19 18:45:24===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-22 16:52:55===>1. Pago digital / crearProveedor / data: {"UID":"3021","EMPRESA":"0","PROVEEDOR_ID":"1381"}
+
+2021-07-22 16:52:55===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-22 16:54:56===>1. Pago digital / crearProveedor / data: {"UID":"2991","EMPRESA":"0","PROVEEDOR_ID":"1380"}
+
+2021-07-22 16:54:56===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-22 16:58:25===>1. Pago digital / crearProveedor / data: {"UID":"3006","EMPRESA":"0","PROVEEDOR_ID":"1370"}
+
+2021-07-22 16:58:25===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-22 16:59:18===>1. Pago digital / crearProveedor / data: {"UID":"2959","EMPRESA":"0","PROVEEDOR_ID":"1374"}
+
+2021-07-22 16:59:18===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-22 16:59:58===>1. Pago digital / crearProveedor / data: {"UID":"2987","EMPRESA":"0","PROVEEDOR_ID":"1369"}
+
+2021-07-22 16:59:58===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-22 17:00:25===>1. Pago digital / crearProveedor / data: {"UID":"2930","EMPRESA":"0","PROVEEDOR_ID":"1372"}
+
+2021-07-22 17:00:25===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-22 17:01:05===>1. Pago digital / crearProveedor / data: {"UID":"2990","EMPRESA":"0","PROVEEDOR_ID":"1368"}
+
+2021-07-22 17:01:05===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-22 17:01:36===>1. Pago digital / crearProveedor / data: {"UID":"2967","EMPRESA":"0","PROVEEDOR_ID":"1364"}
+
+2021-07-22 17:01:36===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-22 17:02:09===>1. Pago digital / crearProveedor / data: {"UID":"2949","EMPRESA":"0","PROVEEDOR_ID":"1379"}
+
+2021-07-22 17:02:09===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-22 17:02:46===>1. Pago digital / crearProveedor / data: {"UID":"2814","EMPRESA":"0","PROVEEDOR_ID":"1357"}
+
+2021-07-22 17:02:46===>2. Pago digital / crearProveedor / validando existencia: No
+
+2021-07-22 17:02:46===>5. Pago digital / crearProveedor / ACTUALIZANDO: {"ID":"22","UID":"2814","EMPRESA":"0","PROVEEDOR_ID":"1357","ESTADO":"1","FECHA_CREACION":"1624445047000","FECHA_ACTUALIZACION":"1624445047000"}
+
+2021-07-22 17:03:24===>1. Pago digital / crearProveedor / data: {"UID":"2683","EMPRESA":"0","PROVEEDOR_ID":"1360"}
+
+2021-07-22 17:03:24===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-23 13:07:35===>1. Pago digital / crearProveedor / data: {"UID":"3106","EMPRESA":"0","PROVEEDOR_ID":"1383"}
+
+2021-07-23 13:07:35===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-29 12:51:52===>1. Pago digital / crearProveedor / data: {"UID":"89","EMPRESA":"1","PROVEEDOR_ID":"1376"}
+
+2021-07-29 12:51:52===>2. Pago digital / crearProveedor / validando existencia: SI
+
+2021-07-29 12:57:00===>1. Pago digital / crearProveedor / data: {"UID":"409","EMPRESA":"1","PROVEEDOR_ID":"1371"}
+
+2021-07-29 12:57:00===>2. Pago digital / crearProveedor / validando existencia: SI

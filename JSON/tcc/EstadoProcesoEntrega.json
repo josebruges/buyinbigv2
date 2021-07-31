@@ -1,0 +1,194 @@
+[
+        {
+            "Id_GOS": "198",
+            "Id_entregas": "100",
+            "GOS": "EN AEROLINEA DE MIAMI",
+            "Portal Web": "MERCANCÍA EN AEROLINEA MIAMI"
+        },
+        {
+            "Id_GOS": "199",
+            "Id_entregas": "200",
+            "GOS": "EN AEROLINEA DE COLOMBIA",
+            "Portal Web": "MERCANCÍA EN AEROLINEA COLOMBIA"
+        },
+        {
+            "Id_GOS": "183",
+            "Id_entregas": "300",
+            "GOS": "EN PROCESO DE INSPECCION ADUANERA",
+            "Portal Web": "EN PROCESO DE INSPECCIÓN ADUANERA"
+        },
+        {
+            "Id_GOS": "184",
+            "Id_entregas": "400",
+            "GOS": "MERCANCIA NACIONALIZADA",
+            "Portal Web": "MERCANCÍA NACIONALIZADA"
+        },
+        {
+            "Id_GOS": "202",
+            "Id_entregas": "500",
+            "GOS": "RELACIONADA",
+            "Portal Web": "ENVÍO PREPARADO PARA ENVIO A DESTINO"
+        },
+        {
+            "Id_GOS": "203",
+            "Id_entregas": "500",
+            "GOS": "EN DESPACHO",
+            "Portal Web": "ENVÍO EN INSTALACIONES TCC ORIGEN"
+        },
+        {
+            "Id_GOS": "196",
+            "Id_entregas": "901",
+            "GOS": "SIN RECIBIR",
+            "Portal Web": "ENVÍO PROGRAMADO"
+        },
+        {
+            "Id_GOS": "194",
+            "Id_entregas": "901",
+            "GOS": "PREPARADA",
+            "Portal Web": "ENVÍO PROGRAMADO"
+        },
+        {
+            "Id_GOS": "193",
+            "Id_entregas": "901",
+            "GOS": "APROVISIONADA",
+            "Portal Web": "ENVÍO PROGRAMADO"
+        },
+        {
+            "Id_GOS": "195",
+            "Id_entregas": "901",
+            "GOS": "CARGADA",
+            "Portal Web": "ENVÍO PROGRAMADO"
+        },
+        {
+            "Id_GOS": "200",
+            "Id_entregas": "902",
+            "GOS": "IMPORTADA",
+            "Portal Web": "REMESA DIGITADA"
+        },
+        {
+            "Id_GOS": "201",
+            "Id_entregas": "902",
+            "GOS": "DIGITADA",
+            "Portal Web": "REMESA DIGITADA"
+        },
+        {
+            "Id_GOS": "204",
+            "Id_entregas": "1000",
+            "GOS": "EN TRASLADO NACIONAL",
+            "Portal Web": "ENVÍO EN TRÁNSITO A INSTALACIONES TCC DESTINO"
+        },
+        {
+            "Id_GOS": "205",
+            "Id_entregas": "1501",
+            "GOS": "EN RECIBO",
+            "Portal Web": "ENVÍO EN INSTALACIONES TCC DESTINO"
+        },
+        {
+            "Id_GOS": "206",
+            "Id_entregas": "2000",
+            "GOS": "EN DISTRIBUCION",
+            "Portal Web": "ENVÍO EN PROCESO DE ENTREGA"
+        },
+        {
+            "Id_GOS": "208",
+            "Id_entregas": "2500",
+            "GOS": "ENTREGADA A CONEXIONES",
+            "Portal Web": "EN PROCESO DE ENTREGA A TRAVÉS DE ALIADO LOGÍSTICO"
+        },
+        {
+            "Id_GOS": "209",
+            "Id_entregas": "3000",
+            "GOS": "ENTREGADA",
+            "Portal Web": "ENVÍO ENTREGADO AL DESTINATARIO"
+        },
+        {
+            "Id_GOS": "134",
+            "Id_entregas": "3001",
+            "GOS": "ENTREGADA CON BOOMERANG",
+            "Portal Web": "ENTREGADA CON BOOMERANG"
+        },
+        {
+            "Id_GOS": "174",
+            "Id_entregas": "3002",
+            "GOS": "RELACIONADA PARA DEVOLVER BOOMERANG",
+            "Portal Web": "RELACIONADA PARA DEVOLVER CON BOOMERANG"
+        },
+        {
+            "Id_GOS": "165",
+            "Id_entregas": "3003",
+            "GOS": "EN TRASLADO NACIONAL CON BOOMERANG",
+            "Portal Web": "EN TRASLADO NACIONAL CON BOOMERANG"
+        },
+        {
+            "Id_GOS": "210",
+            "Id_entregas": "3004",
+            "GOS": "EN BODEGA ORIGEN CON BOOMERANG",
+            "Portal Web": "EN DISTRIBUCIÓN CON BOOMERANG"
+        },
+        {
+            "Id_GOS": "190",
+            "Id_entregas": "3005",
+            "GOS": "EN DISTRIBUCION CON BOOMERANG",
+            "Portal Web": "EN BODEGA ORIGEN CON BOOMERANG"
+        },
+        {
+            "Id_GOS": "264",
+            "Id_entregas": "3400",
+            "GOS": "CUMPLIDO CON DEVOLUCION PARCIAL",
+            "Portal Web": "CUMPLIDO CON DEVOLUCIÓN PARCIAL"
+        },
+        {
+            "Id_GOS": "260",
+            "Id_entregas": "3500",
+            "GOS": "MERCANCÍA EN PROCESO DE INDEMNIZACIÓN",
+            "Portal Web": "MERCANCÍA EN PROCESO DE INDEMNIZACIÓN"
+        },
+        {
+            "Id_GOS": "261",
+            "Id_entregas": "3600",
+            "GOS": "INDEMNIZACIÓN PAGADA",
+            "Portal Web": "INDEMNIZACIÓN PAGADA"
+        },
+        {
+            "Id_GOS": "262",
+            "Id_entregas": "3700",
+            "GOS": "INDEMNIZACIÓN NEGADA",
+            "Portal Web": "INDEMNIZACIÓN NEGADA"
+        },
+        {
+            "Id_GOS": "207",
+            "Id_entregas": "3800",
+            "GOS": "ENTREGADA PARCIALMENTE",
+            "Portal Web": "CUMPLIDO PARCIAL POR PRESENTAR NOVEDAD"
+        },
+        {
+            "Id_GOS": "263",
+            "Id_entregas": "3900",
+            "GOS": "MERCANCÍA RETENIDA POR LA DIAN",
+            "Portal Web": "MERCANCÍA RETENIDA POR LA DIAN"
+        },
+        {
+            "Id_GOS": "254",
+            "Id_entregas": "4000",
+            "GOS": "EN DEVOLUCIÓN",
+            "Portal Web": "MERCANCÍA EN PROCESOS DE DEVOLUCIÓN A ORIGEN"
+        },
+        {
+            "Id_GOS": "214",
+            "Id_entregas": "4100",
+            "GOS": "EN CONTINUACION",
+            "Portal Web": "MERCANCÍA CONTINÚA A OTRO DESTINO"
+        },
+        {
+            "Id_GOS": "212",
+            "Id_entregas": "4200",
+            "GOS": "REEMPLAZADA",
+            "Portal Web": "REEMPLAZO DE REMESA"
+        },
+        {
+            "Id_GOS": "213",
+            "Id_entregas": "4300",
+            "GOS": "ANULADA",
+            "Portal Web": "MERCANCÍA NO DESPACHADA POR EL REMITENTE"
+        }
+    ]
