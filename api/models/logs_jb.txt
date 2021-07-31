@@ -270,3 +270,11 @@
 2021-07-31 09:55:01--->----=> [ 2). JSON FACTURA SIIGO | data ]: {"uid":1614,"empresa":0,"observations":"Cobro comisi\u00f3n del 12% - Ref: #632 - Ref Cart: #906","items":[{"code":"CP21","description":"COMISION PREMIUM ROPA CALZADO Y COMPLEMENTOS 12%","quantity":1,"price":59400,"discount":0,"taxes":19}],"payments":[{"value":70686}]}
 
 2021-07-31 09:55:10--->----=> [ 2). JSON FACTURA SIIGO | resultFacturacion ]: {"status":"success","data":{"id":"1b9353bb-370d-4228-b208-25dec2b3dc2d","document":{"id":26852},"number":193,"name":"FV-2-193","date":"2021-07-31","customer":{"id":"39134680-b3b8-4358-8dfe-82b2665087a6","identification":"1234657899","branch_office":0},"seller":954,"total":70686,"balance":0,"observations":"Cobro comisi\u00f3n del 12% - Ref: #632 - Ref Cart: #906","items":[{"id":"24149453-e9b2-4026-9389-e0e76d47f38a","code":"CP21","quantity":1,"price":59400,"description":"COMISION PREMIUM ROPA CALZADO Y COMPLEMENTOS 12%","taxes":[{"id":8494,"name":"IVA 19%","type":"IVA","percentage":19,"value":11286}],"total":70686}],"payments":[{"id":7964,"name":"Pagos ya Recibidos","value":70686}],"metadata":{"created":"2021-07-31T09:55:07.687"}}}
+
+2021-07-31 12:24:54--->----> [1. usuarios nasbi | isEnableMySQL]: 1
+
+2021-07-31 12:24:54--->----> [2. usuarios nasbi | isEnableMySQL]: 1
+
+2021-07-31 12:24:54--->----> [1. usuarios nasbi | isEnableMySQL]: 1
+
+2021-07-31 12:24:54--->----> [2. usuarios nasbi | isEnableMySQL]: 1
